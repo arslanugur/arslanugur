@@ -44,9 +44,9 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 
-
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanugur&hide=TeX&layout=compact)  -->
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=gotham" alt="arslanugur" />   -->
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanugur&hide=TeX&layout=compact)  -->
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xunzhuo&theme=tokyonight" />
     
 
 
