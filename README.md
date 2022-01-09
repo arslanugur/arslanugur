@@ -38,21 +38,3 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <a href="https://github.com/arslanugur/py">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslanugur&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/arslanuguur
-[2]: https://github.com/arslanugur
-[3]: http://linkedin.com/in/-ugurarslan-
-
-
