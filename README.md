@@ -1,3 +1,7 @@
+<a href="https://github.com/arslanugur/arslanugur">
+    <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="page views" />
+</a>
+
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
 
 # Hello, folks! <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px">
@@ -5,10 +9,6 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
-<a href="https://github.com/arslanugur/arslanugur">
-    <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="page views" />
-</a>
-
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
 </a>
