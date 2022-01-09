@@ -2,7 +2,7 @@
 
 <!--
 **arslanugur/arslanugur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 [![Header](https://raw.githubusercontent.com/arslanugur/arslanugur/blob/arslan/readme_header.png "Header")](http://linkedin.com/in/-ugurarslan-)
 
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 My name is Uğur Arslan and I'm an English Teacher and Software Developer. I'm from Turkey, living in İstanbul. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
