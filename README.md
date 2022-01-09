@@ -31,7 +31,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=gotham" alt="arslanugur" />
 
 
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="page views" />
   </a>
   
