@@ -8,7 +8,7 @@
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
 </a>
-<a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT">
+<a href="https://wa.me/qr/F4CP7YCCPZCZB1">
   <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/WhatsApp-Logo.svg" />
 </a>
 <a href="https://twitter.com/arslanuguur">
@@ -24,6 +24,3 @@
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
 </a>
 
-<a href="https://wa.me/qr/F4CP7YCCPZCZB1">
-  <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/WhatsApp-Logo.svg" />
-</a>
