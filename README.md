@@ -20,7 +20,5 @@
 <a href="https://open.spotify.com/user/11139457861">
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
 </a>
-<a href="https://github.com/arslanugur/projects/tree/master/English%20101">
-  <img align="left" alt="Arslan's English" width="28px" src="https://github.com/arslanugur/arslanugur/blob/arslan/English-Logo.svg" />
-</a>
+
 
