@@ -5,6 +5,9 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
+<a href="https://github.com/arslanugur/arslanugur">
+    <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="page views" />
+</a>
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
 </a>
@@ -26,9 +29,7 @@
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
-<a href="https://github.com/arslanugur/arslanugur">
-    <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="page views" />
-</a>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=gotham" alt="arslanugur" />
 
