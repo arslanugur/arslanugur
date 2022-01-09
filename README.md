@@ -1,11 +1,10 @@
+# Hello, folks! <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px">
+
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="page views" />
 </a>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
-
-# Hello, folks! <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px">
-
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
