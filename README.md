@@ -17,10 +17,9 @@
 <a href="https://www.linkedin.com/in/-ugurarslan-">
   <img align="left" alt="Arslan's LinkedIN" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/LinkedIn-Logo.svg" />
 </a>
-<a href="https://open.spotify.com/user/11139457861">
-  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
-</a>
 <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ">
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Youtube-Logo.svg" />
 </a>
-
+<a href="https://open.spotify.com/user/11139457861">
+  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
+</a>
