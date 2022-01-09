@@ -23,3 +23,7 @@
 <a href="https://open.spotify.com/user/11139457861">
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
 </a>
+
+<a href="https://api.whatsapp.com/send?text=+905071686024">
+  <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/WhatsApp-Logo.svg" />
+</a>
