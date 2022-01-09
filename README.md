@@ -12,5 +12,5 @@
   <img align="left" alt="Arslan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://instagram.com/arslanuguur">
-  <img align="left" alt="Arslan Uğur | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Arslan Uğur | Instagram" width="22px" src="https://github.com/arslanugur/arslanugur/blob/arslan/insta.ai" />
 </a>
