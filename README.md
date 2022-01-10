@@ -11,7 +11,7 @@
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
 </a>
-<a href="https://wa.me/qr/F4CP7YCCPZCZB1">
+<a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT">
   <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/WhatsApp-Logo.svg" />
 </a>
 <a href="https://twitter.com/arslanuguur">
@@ -48,7 +48,7 @@
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
 
 <!-- <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />    -->
-    
+<!-- https://wa.me/qr/F4CP7YCCPZCZB1 -->
 
 
   
