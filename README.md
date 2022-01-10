@@ -1,5 +1,3 @@
-![Header](https://github.com/arslanugur/arslanugur/blob/arslan/ComputerScience.gif)
-
 # Hello, folks! <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px">
 
 <a href="https://github.com/arslanugur/arslanugur">
