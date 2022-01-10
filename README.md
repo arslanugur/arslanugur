@@ -31,8 +31,8 @@
 </a>
 
 
+[![Header](https://github.com/arslanugur/arslanugur/blob/arslan/ComputerScience.gif)]
 
-https://github.com/arslanugur/arslanugur/blob/arslan/ComputerScience.gif
 
 <!--    
     
