@@ -32,6 +32,8 @@
 
 
 
+https://github.com/arslanugur/arslanugur/blob/arslan/ComputerScience.gif
+
 <!--    
     
 ### 🔨 Languages and Tools:
