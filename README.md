@@ -58,7 +58,7 @@
 
 
 <details close>
- <summary> <b>About</b>: </summary>
+ <summary> About </summary>
 
 ```yaml
 name: Uğur Arslan
