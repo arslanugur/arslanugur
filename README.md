@@ -8,29 +8,27 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
-<p align="center">
 <a href="https://instagram.com/arslanuguur">
-  <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
+  <img align="center" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
 </a>
 <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT">
-  <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/WhatsApp-Logo.svg" />
+  <img align="center" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/WhatsApp-Logo.svg" />
 </a>
 <a href="https://twitter.com/arslanuguur">
-  <img align="left" alt="Arslan Uğur | Twitter" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Twitter-Logo.svg" />
+  <img align="center" alt="Arslan Uğur | Twitter" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Twitter-Logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/-ugurarslan-">
-  <img align="left" alt="Arslan's LinkedIN" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/LinkedIn-Logo.svg" />
+  <img align="center" alt="Arslan's LinkedIN" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/LinkedIn-Logo.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ">
-  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Youtube-Logo.svg" />
+  <img align="center" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Youtube-Logo.svg" />
 </a>
 <a href="https://open.spotify.com/user/11139457861">
-  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
+  <img align="center" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
-</p>
 
 
 
@@ -71,9 +69,8 @@ education: ["English Literature", "Management Information System"]
 </details>
 
   
- Last Updated on 11/01/2022
-<!--END_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
