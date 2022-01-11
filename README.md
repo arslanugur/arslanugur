@@ -58,14 +58,23 @@
 
 
 <details open>
- <summary> 😇 <b>Medium Published articles</b>: </summary>
-<br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
-  <br>
+ <summary> <b>Medium Published articles</b>: </summary>
+```yaml
+name: Erwin Lejeune
+located_in: Odense, Denmark
+from: Nantes (France)
+job: Navigation and Control Engineer
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Coalescent Mobile Robotics
+
+technical_interests: ["Local Planners", "Path Following", "Obstacle Avoidance", 
+                      "Object Detection", "Precision Approach Controllers", "SLAM"]
+currently_learning: ["Behaviour Trees", "PetriNets"]
+hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
+          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
+
+relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
+```
 
 </details>
 
@@ -74,6 +83,6 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
   
