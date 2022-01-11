@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px">
+<h2 align="center"># Hello, folks! <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2>
 
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
@@ -8,6 +8,7 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
+<p align="center">
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
 </a>
@@ -29,7 +30,7 @@
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
-
+</p>
 
 
 
