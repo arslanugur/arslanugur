@@ -40,7 +40,7 @@
 name: Uğur Arslan
 located_in: İstanbul, Turkey
 job: English Teacher and Software Developer
-education: ["English Literature", "Management Information System"]
+education: ["English Literature", "Management Information Systems"]
 ```
 
 </details>
