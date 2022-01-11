@@ -59,6 +59,7 @@
 
 <details open>
  <summary> <b>Medium Published articles</b>: </summary>
+
 ```yaml
 name: Erwin Lejeune
 located_in: Odense, Denmark
