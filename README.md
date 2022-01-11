@@ -57,28 +57,16 @@
 <!-- https://wa.me/qr/F4CP7YCCPZCZB1 -->
 
 
-<details open>
- <summary> <b>Medium Published articles</b>: </summary>
-<br>
+<details close>
+ <summary> <b>About</b>: </summary>
 
 ```yaml
-name: Erwin Lejeune
-located_in: Odense, Denmark
-from: Nantes (France)
-job: Navigation and Control Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Coalescent Mobile Robotics
-
-technical_interests: ["Local Planners", "Path Following", "Obstacle Avoidance", 
-                      "Object Detection", "Precision Approach Controllers", "SLAM"]
-currently_learning: ["Behaviour Trees", "PetriNets"]
-hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
-          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
-
-relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
+name: Uğur Arslan
+located_in: İstanbul, Turkey
+job: English Teacher and Software Developer
+education: ["English Literature", "Management Information System"]
 ```
 
-</br>
 </details>
 
   
