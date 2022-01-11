@@ -59,6 +59,7 @@
 
 <details open>
  <summary> <b>Medium Published articles</b>: </summary>
+<br>
 
 ```yaml
 name: Erwin Lejeune
@@ -77,6 +78,7 @@ hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
 relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
 ```
 
+</br>
 </details>
 
   
