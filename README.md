@@ -31,7 +31,7 @@
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10667473">
-  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
+  <img align="left" alt="Arslan's StackOverFlow" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
 </a>
 <a href="https://www.reddit.com/user/arslanugr/">
    <img align="left" alt="Arslan's Reddit" width="62px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" />
