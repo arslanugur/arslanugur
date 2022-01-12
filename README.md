@@ -34,6 +34,12 @@
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
 </a>
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="40" /></a>
+<a href="https://medium.com/@arslanugur">
+   <img align="left" alt="Arslan's Medium" width="52" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Medium-Logo.svg" />
+   </a>
+
+
+
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
@@ -134,10 +140,8 @@ education: ["English Literature", "Management Information Systems"]
 
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=gotham" alt="arslanugur" />   -->
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanugur&hide=TeX&layout=compact)  -->
-<!--    -->
-
-<!--     -->
 <!-- https://wa.me/qr/F4CP7YCCPZCZB1 -->
+
 
 
 
