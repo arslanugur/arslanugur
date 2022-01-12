@@ -115,9 +115,9 @@ education: ["English Literature", "Management Information Systems"]
 
 <!--Spending Time-->  
 <details>
- <summary> 📊 This week I spent my time on </summary>
+ <summary> 📊 Stats </summary>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=arslanugur&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
 
 </details>
 
@@ -129,7 +129,7 @@ education: ["English Literature", "Management Information Systems"]
 
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=gotham" alt="arslanugur" />   -->
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanugur&hide=TeX&layout=compact)  -->
-<!--  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />  -->
+<!--    -->
 
 <!-- <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />    -->
 <!-- https://wa.me/qr/F4CP7YCCPZCZB1 -->
