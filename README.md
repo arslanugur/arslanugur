@@ -63,6 +63,7 @@ education: ["English Literature", "Management Information Systems"]
 </details>
 
 
+    
 <!--Languages and Tools-->  
 <details>
   <summary> 🛠️ Languages and Tools </summary>
