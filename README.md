@@ -38,7 +38,7 @@
    <img align="left" alt="Arslan's Medium" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Medium-Logo.svg" />
    </a>
 <a href="https://www.reddit.com/user/arslanugr/">
-   <img align="left" alt="Arslan's Reddit" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" />
+   <img align="left" alt="Arslan's Reddit" width="62px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" />
    </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
