@@ -39,7 +39,7 @@
 ```yaml
 name: Uğur Arslan
 located_in: İstanbul, Turkey
-job: English Teacher and Software Developer
+job: ["English Teacher, Software Developer"]
 education: ["English Literature", "Management Information Systems"]
 ```
 
