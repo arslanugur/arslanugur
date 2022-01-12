@@ -1,8 +1,12 @@
 <h2 align="center"> <b> Hello, folks! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2>
 
-<a align="center" href="https://github.com/arslanugur/arslanugur">
+
+<p align="center">
+<a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
 </a>
+</p>
+
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
 
