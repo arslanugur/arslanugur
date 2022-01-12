@@ -113,6 +113,15 @@ education: ["English Literature", "Management Information Systems"]
 
 
 
+<!--Spending Time-->  
+<details>
+ <summary> 📊 This week I spent my time on </summary>
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=arslanugur&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+</details>
+
+
 <!--
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/arslanuguur"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=arslanuguur&amp;layout=wide" alt="github-readme-twitter"></a></p>
