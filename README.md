@@ -33,13 +33,13 @@
 <a href="https://stackoverflow.com/users/10667473">
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
 </a>
-<a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="40" />
-</a>
 <a href="https://medium.com/@arslanugur">
    <img align="left" alt="Arslan's Medium" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Medium-Logo.svg" />
 </a>
 <a href="https://www.reddit.com/user/arslanugr/">
    <img align="left" alt="Arslan's Reddit" width="62px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" />
+</a>
+<a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="40" />
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="130" >
