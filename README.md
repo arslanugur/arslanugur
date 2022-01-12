@@ -113,9 +113,9 @@ education: ["English Literature", "Management Information Systems"]
 
 
 
-<!--Spending Time-->  
+<!--Stats-->
 <details>
- <summary> 📊 Stats </summary>
+  <summary> 📊 Stats </summary> 
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
 <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
