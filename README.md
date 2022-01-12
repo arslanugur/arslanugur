@@ -13,7 +13,7 @@
 
 <!-- LOGOS: https://www.logo.wine/ -->
 <a href="https://instagram.com/arslanuguur">
-  <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/icons/blob/arslan/Instagram-Logo.svg" />
+  <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" />
 </a>
 <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT">
   <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/WhatsApp-Logo.svg" />
