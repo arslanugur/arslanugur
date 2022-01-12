@@ -13,22 +13,22 @@
 
 <!-- LOGOS: https://www.logo.wine/ -->
 <a href="https://instagram.com/arslanuguur">
-  <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Instagram-Logo.svg" />
+  <img align="left" alt="Arslan Uğur | Instagram" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" />
 </a>
 <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT">
-  <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/WhatsApp-Logo.svg" />
+  <img align="left" alt="Arslan Uğur | Whatsapp" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/WhatsApp-Logo.svg" />
 </a>
 <a href="https://twitter.com/arslanuguur">
-  <img align="left" alt="Arslan Uğur | Twitter" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Twitter-Logo.svg" />
+  <img align="left" alt="Arslan Uğur | Twitter" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/-ugurarslan-">
-  <img align="left" alt="Arslan's LinkedIN" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/LinkedIn-Logo.svg" />
+  <img align="left" alt="Arslan's LinkedIN" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ">
-  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Youtube-Logo.svg" />
+  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" />
 </a>
 <a href="https://open.spotify.com/user/11139457861">
-  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/Spotify-Logo.svg" />
+  <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10667473">
   <img align="left" alt="Arslan's Spotify" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
