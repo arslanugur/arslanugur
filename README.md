@@ -55,8 +55,8 @@
 
 ```yaml
 name: Uğur Arslan
-located_in: İstanbul, Turkey
-job: ["English Teacher, Software Developer"]
+location: İstanbul, Turkey
+occupation: ["English Teacher, Software Developer"]
 education: ["English Literature", "Management Information Systems"]
 ```
 
