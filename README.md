@@ -50,7 +50,7 @@
 <!--About-->  
 <details>
  <summary> ✨ About </summary>
-
+ <p align="left">
 ```yaml
 name: Uğur Arslan
 located_in: İstanbul, Turkey
