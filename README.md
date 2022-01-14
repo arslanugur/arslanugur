@@ -52,12 +52,11 @@
 </a>
 </p>
 <br/>
-
+<br/>
 
 
 
 <!--About-->
-<br>
 <p align="left">
 <details>
  <summary> ✨ About </summary>
