@@ -48,10 +48,11 @@
    <img align="left" alt="Arslan's Medium" width="28px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Medium-Logo.svg" />
 </a>
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
-</a></p>
+</a>
+</p>
 <br/>
 
-<br>
+<br/>
 <!--About-->
 <p align="left">
 <details>
