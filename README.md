@@ -12,6 +12,12 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
+<a href="https://github.com/arslanugur/projects/tree/master/English%20101">
+  <img align="left" alt="Arslan Uğur | English" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
+</a>
+
+
+
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" />
 </a>
@@ -45,10 +51,6 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="130" >
 </a>
 
-
-<p align="center">
-<a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="blank"><img align="left" src="https://github.com/arslanugur/arslanugur/blob/arslan/london.png" alt="arslanugur" height="230" width="818" />
-</a>
 
 <!--About-->
 <p align="left">
