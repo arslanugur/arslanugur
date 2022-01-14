@@ -65,7 +65,7 @@ occupation: ["English Teacher, Software Developer"]
 education: ["English Literature", "Management Information Systems"]
 ```
 <a href="" target="_blank">
-  <img align="right" src="https://github.com/arslanugur/arslanugur/blob/arslan/this_page_is.gif"  width="105" >
+  <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/this_page_is.gif"  width="405" >
 </a>
 </details> </p>
 
