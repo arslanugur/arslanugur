@@ -36,6 +36,9 @@
 <a href="https://open.spotify.com/user/11139457861">
   <img align="left" alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a>
+<a href="https://tr.pinterest.com/arslanuguur/_saved/">
+  <img align="left" alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" />
+</a>
 <a href="https://stackoverflow.com/users/10667473">
   <img align="left" alt="Arslan's StackOverFlow" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
 </a>
