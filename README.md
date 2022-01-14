@@ -7,7 +7,7 @@
 </a>
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" >
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="105" >
 </a>
 </p>
 
