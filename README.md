@@ -15,7 +15,6 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
-<p>
 <a href="https://github.com/arslanugur/projects/tree/master/English%20101">
   <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
 </a>
@@ -48,11 +47,10 @@
 </a>
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
 </a>
-</p>
 
 
 
-
+<h2></h2>
 <!--About-->
 <p align="left">
 <details>
@@ -66,7 +64,7 @@ education: ["English Literature", "Management Information Systems"]
 ```
 
 </details>
-
+</h2>
 
     
 <!--Languages and Tools-->  
