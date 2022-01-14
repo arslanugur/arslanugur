@@ -92,6 +92,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+      <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" alt="linux" width="40" height="40"/> </a>
       <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
       <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws" width="40" height="40"/> </a> 
       <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -138,6 +139,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="tensorflow" height="42px"/> </a>
       <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="45" height="45"/> </a>
+      <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="django" width="45" height="45"/> </a>
  </p>
 </details>
 
