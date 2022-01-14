@@ -46,8 +46,8 @@
 </a>
 
 
-
-<a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="blank"><img align="left" src="https://github.com/arslanugur/arslanugur/blob/arslan/london.png" alt="arslanugur" align="center" height="230" width="818" />
+<p align="center">
+<a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="blank"><img align="left" src="https://github.com/arslanugur/arslanugur/blob/arslan/london.png" alt="arslanugur" height="230" width="818" />
 </a>
 
 <!--About-->
