@@ -50,9 +50,7 @@
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
 </a><br/>
 </p>
-<a href="" target="_blank">
-  <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/this_page_is.gif"  width="505" >
-</a>
+
 
 <br/>
 <!--About-->
