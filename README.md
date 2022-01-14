@@ -6,7 +6,10 @@
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
 </a>
 </p>
-
+</a>
+<a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="130" >
+</a>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
 
@@ -15,9 +18,6 @@
 <a href="https://github.com/arslanugur/projects/tree/master/English%20101">
   <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
 </a>
-
-
-
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" />
 </a>
