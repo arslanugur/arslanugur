@@ -7,7 +7,7 @@
 </a>
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="85" >
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="95" >
 </a>
 </p>
 
@@ -15,6 +15,7 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ -->
+<p>
 <a href="https://github.com/arslanugur/projects/tree/master/English%20101">
   <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
 </a>
@@ -47,7 +48,7 @@
 </a>
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
 </a>
-
+</p>
 
 
 <!--About-->
