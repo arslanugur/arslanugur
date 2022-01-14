@@ -51,7 +51,7 @@
 </a><br/>
 </p>
 <a href="" target="_blank">
-  <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/this_page_is.gif"  width="805" >
+  <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/this_page_is.gif"  width="505" >
 </a>
 
 <br/>
