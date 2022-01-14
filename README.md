@@ -50,8 +50,8 @@
 
 
 
-<h2>
 <!--About-->
+<br/>
 <p align="left">
 <details>
  <summary> ✨ About </summary>
@@ -64,7 +64,6 @@ education: ["English Literature", "Management Information Systems"]
 ```
 
 </details>
-</h2>
 
     
 <!--Languages and Tools-->  
