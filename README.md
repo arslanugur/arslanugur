@@ -13,7 +13,7 @@
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
 
 
-<!-- LOGOS: https://www.logo.wine/ -->
+<!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <a href="https://github.com/arslanugur/projects/tree/master/English%20101">
   <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
 </a>
