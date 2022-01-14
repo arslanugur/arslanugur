@@ -67,6 +67,15 @@ education: ["English Literature", "Management Information Systems"]
 
 </details> </p>
 
+<!--Stats-->
+<details>
+  <summary> 📊 Stats </summary> 
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
+    
+</details>
+
     
 <!--Languages and Tools-->  
 <details>
@@ -139,22 +148,10 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="tensorflow" height="42px"/> </a>
       <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="45" height="45"/> </a>
-      <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="django" width="45" height="45"/> </a>
+      <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="45" height="45"/> </a>
  </p>
 </details>
 
-
-
-
-
-<!--Stats-->
-<details>
-  <summary> 📊 Stats </summary> 
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
-    
-</details>
 
 
 <!--
