@@ -64,7 +64,7 @@ education: ["English Literature", "Management Information Systems"]
 ```
 
 </details> </p>
-<br/>
+
     
 <!--Languages and Tools-->  
 <details>
