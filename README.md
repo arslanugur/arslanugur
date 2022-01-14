@@ -13,7 +13,7 @@
 
 <!-- LOGOS: https://www.logo.wine/ -->
 <a href="https://github.com/arslanugur/projects/tree/master/English%20101">
-  <img align="left" alt="Arslan Uğur | English" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
+  <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
 </a>
 
 
