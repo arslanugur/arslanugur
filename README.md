@@ -5,7 +5,6 @@
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
 </a>
-</a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="105" >
 </a>
@@ -49,8 +48,9 @@
    <img align="left" alt="Arslan's Medium" width="28px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Medium-Logo.svg" />
 </a>
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
-</a><br/>
-</p>
+</a></p>
+<br/>
+
 <br>
 <!--About-->
 <p align="left">
