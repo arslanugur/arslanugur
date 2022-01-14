@@ -5,11 +5,11 @@
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
 </a>
-</p>
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="130" >
 </a>
+</p>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
 
