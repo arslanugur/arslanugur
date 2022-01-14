@@ -51,7 +51,6 @@
 
 
 <!--About-->
-<br/>
 <p align="left">
 <details>
  <summary> ✨ About </summary>
@@ -63,7 +62,7 @@ occupation: ["English Teacher, Software Developer"]
 education: ["English Literature", "Management Information Systems"]
 ```
 
-</details>
+</details> </p>
 
     
 <!--Languages and Tools-->  
