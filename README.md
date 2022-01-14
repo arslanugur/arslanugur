@@ -57,7 +57,7 @@
 
 
 <!--About-->
-<br>
+</br>
 <p align="left">
 <details>
  <summary> ✨ About </summary>
