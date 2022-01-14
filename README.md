@@ -50,9 +50,10 @@
 </a>
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
 </a>
+<br/>
 </p>
 <br/>
-<br/>
+
 
 
 
