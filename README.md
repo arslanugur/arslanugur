@@ -15,7 +15,7 @@
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <a href="https://github.com/arslanugur/projects/tree/master/English%20101">
-  <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Liberty.svg" />
+  <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
 </a>
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" />
