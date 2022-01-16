@@ -155,8 +155,8 @@ education: ["English Literature", "Management Information Systems"]
 <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
     
 </details>
-
-
+<br/>
+<br/>
 
 <!-- Spotify -->
 <br/>
