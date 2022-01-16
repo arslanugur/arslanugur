@@ -155,17 +155,17 @@ education: ["English Literature", "Management Information Systems"]
 <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
     
 </details></p>
-
+<br/>
 
 <!-- Spotify -->
 <br/>
 <p align="center">
     <a href="https://open.spotify.com/user/11139457861">
-  <img width="140px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
+  <img width="150px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
 </a>
 <br/>   
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
   </a>
 </p>
 
