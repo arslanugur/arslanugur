@@ -151,8 +151,8 @@ education: ["English Literature", "Management Information Systems"]
 <p><details>
   <summary> 📊 Stats </summary> 
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
-<img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
+<img align="center" width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
     
 </details></p>
 <br/>
@@ -161,7 +161,7 @@ education: ["English Literature", "Management Information Systems"]
 <br/>
 <p align="left">
     <a href="https://open.spotify.com/user/11139457861">
-  <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
+  <img width="140px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
 </a>  
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
