@@ -159,7 +159,7 @@ education: ["English Literature", "Management Information Systems"]
 
 <p align="center">
     <a href="https://open.spotify.com/user/11139457861">
-  <img width="60px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
+  <img width="120px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
 </a>
 </p>
 
