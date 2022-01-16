@@ -159,9 +159,9 @@ education: ["English Literature", "Management Information Systems"]
 
 <!-- Spotify -->
 <br/>
-<p align="center">
+<p align="left">
     <a href="https://open.spotify.com/user/11139457861">
-  <img width="150px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
+  <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
 </a>
 <br/>   
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
