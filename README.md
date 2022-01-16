@@ -159,7 +159,7 @@ education: ["English Literature", "Management Information Systems"]
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=40bfbc&bar_color_cover=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=40bfbc&bar_color_cover=false">
   </a>
 </p>
 
