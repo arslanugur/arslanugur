@@ -26,11 +26,11 @@
 <a href="https://twitter.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Twitter" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" />
 </a>
-<a href="https://www.linkedin.com/in/-ugurarslan-">
-  <img align="left" alt="Arslan's LinkedIN" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" />
-</a>
 <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ">
   <img align="left" alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" />
+</a>
+<a href="https://www.linkedin.com/in/-ugurarslan-">
+  <img align="left" alt="Arslan's LinkedIN" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" />
 </a>
 <a href="https://tr.pinterest.com/arslanuguur/_saved/">
   <img align="left" alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" />
