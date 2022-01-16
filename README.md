@@ -148,15 +148,14 @@ education: ["English Literature", "Management Information Systems"]
 
 
 <!--Stats-->
-<details>
+<p><details>
   <summary> 📊 Stats </summary> 
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
 <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
     
-</details>
-<br/>
-<br/>
+</details></p>
+
 
 <!-- Spotify -->
 <br/>
