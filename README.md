@@ -156,6 +156,15 @@ education: ["English Literature", "Management Information Systems"]
     
 </details>
 
+
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11139457861&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11139457861&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  </a>
+</p>
+
+
 <!--
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/arslanuguur"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=arslanuguur&amp;layout=wide" alt="github-readme-twitter"></a></p>
