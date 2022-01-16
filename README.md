@@ -32,9 +32,6 @@
 <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ">
   <img align="left" alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" />
 </a>
-<a href="https://open.spotify.com/user/11139457861">
-  <img align="left" alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
-</a>
 <a href="https://tr.pinterest.com/arslanuguur/_saved/">
   <img align="left" alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" />
 </a>
@@ -160,7 +157,7 @@ education: ["English Literature", "Management Information Systems"]
 <br/>
 <p align="center">
     <a href="https://open.spotify.com/user/11139457861">
-  <img width="140px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo2.svg" />
+  <img width="140px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a>
 <br/>    
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
