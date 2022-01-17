@@ -164,10 +164,9 @@ education: ["English Literature", "Management Information Systems"]
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
   </a>
-   <p align="right">
-    <a href="https://github.com/arslanugur">
+    <a align="right" href="https://github.com/arslanugur">
   <img src="https://github.com/arslanugur/arslanugur/blob/arslan/dev-working_rounded.gif?raw=true" href="https://github.com/arslanugur" alt="gif"  width="250"/><br> 
-</a></p>
+</a>
 </p>
 
 
