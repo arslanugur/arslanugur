@@ -159,15 +159,15 @@ education: ["English Literature", "Management Information Systems"]
     <a href="https://open.spotify.com/user/11139457861">
   <img width="140px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a>
-    
-<p align="right">
-    <a href="https://github.com/arslanugur">
-  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/dev-working_rounded.gif?raw=true" href="https://github.com/arslanugur" alt="gif"  width="250"/><br> 
-</a></p>
-<br/>    
+
+<br/>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
   </a>
+   <p align="right">
+    <a href="https://github.com/arslanugur">
+  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/dev-working_rounded.gif?raw=true" href="https://github.com/arslanugur" alt="gif"  width="250"/><br> 
+</a></p>
 </p>
 
 
