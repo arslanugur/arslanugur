@@ -67,7 +67,7 @@ education: ["English Literature", "Management Information Systems"]
 
 
     
-<!--Languages and Tools-->  
+<!--Languages and Tools https://iconify.design/-->  
 <details>
   <summary> 🛠️ Information Technology Languages and Tools </summary>
   <br/>
