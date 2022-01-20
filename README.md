@@ -47,7 +47,11 @@
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
 </a><br/>
 </p>
-<br/>
+
+<p align="center">    
+<a href="https://www.buymeacoffee.com/arslanugur">
+  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/fox.gif" width="100" >
+</a>
 
 <br/>
 <!--About-->
