@@ -167,7 +167,7 @@ education: ["English Literature", "Management Information Systems"]
 
 <p align="center">    
 <a href="https://www.buymeacoffee.com/arslanugur">
-  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/dino_rounded.gif" width="510" >
+  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/dino_rounded.gif" width="410" >
 </a>
 
 
