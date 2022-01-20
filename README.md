@@ -1,4 +1,4 @@
-<h2 align="center"> <b> Hello, folks! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2>
+<h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2>
 
 
 <p align="left">
