@@ -77,7 +77,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" alt="js" width="40" height="40"/> </a>
-      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-npm.svg" alt="js" width="40" height="40"/> </a>
+      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="js" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
@@ -104,7 +104,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-      <a href="https://www.docker.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-docker.svg" alt="docker" width="40" height="40"/> </a>
+      <a href="https://www.docker.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-docker2.svg" alt="docker" width="40" height="40"/> </a>
       <a href="https://kubernetes.io" target="_blank"> <img src="https://api.iconify.design/logos:kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
       <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
