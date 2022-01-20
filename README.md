@@ -76,6 +76,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
+      
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -137,7 +138,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
       <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
       <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
-      <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" height="42px"/> </a>
+      <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" height="40px"/> </a>
       <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="45" height="45"/> </a>
       <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="45" height="45"/> </a>
