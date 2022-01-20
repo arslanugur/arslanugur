@@ -5,7 +5,7 @@
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
 </a>
-<a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
+<a href="https://www.buymeacoffee.com/arslanugur">
   <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/dino_rounded.gif" width="110" >
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
