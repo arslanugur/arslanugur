@@ -17,6 +17,8 @@
 <a href="https://github.com/arslanugur/projects/tree/master/English%20101">
   <img align="left" alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
 </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/Statue-of-Liberty.png" alt="cplusplus" width="20" height="20"/> </a>
 <a href="https://instagram.com/arslanuguur">
   <img align="left" alt="Arslan Uğur | Instagram" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" />
 </a>
