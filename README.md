@@ -77,6 +77,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" alt="js" width="40" height="40"/> </a>
+      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-npm.svg" alt="js" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
@@ -97,17 +98,17 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://aws.amazon.com" target="_blank"> <img src="https://api.iconify.design/logos:aws.svg" alt="aws" width="40" height="40"/> </a> 
       <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://api.iconify.design/logos:microsoft-azure.svg" alt="azure" width="40" height="40"/> </a>
       <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-      <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> 
+      <a href="https://git-scm.com/" target="_blank"> <img src="https://api.iconify.design/logos:git-icon.svg" alt="git" width="40" height="40"/> </a> 
+      <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://api.iconify.design/logos:bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+      <a href="https://circleci.com" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-circleci.svg" alt="circleci" width="40" height="40"/> </a> 
       <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-      <a href="https://www.docker.com/" target="_blank"> <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-      <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+      <a href="https://www.docker.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-docker.svg" alt="docker" width="40" height="40"/> </a>
+      <a href="https://kubernetes.io" target="_blank"> <img src="https://api.iconify.design/logos:kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
       <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+      <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a> 
       <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
       <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
       <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
@@ -122,25 +123,28 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> 
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
       <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-      <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+      <a href="https://redis.io" target="_blank"> <img src="https://api.iconify.design/logos:redis.svg" alt="redis" width="40" height="40"/> </a> 
       <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-      <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+      <a href="https://www.php.net" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-php.svg" alt="php" width="40" height="40"/> </a> 
+      <a href="https://www.postgresql.org" target="_blank"> <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
       <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
       <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-      <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
-      <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+      <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://api.iconify.design/logos:puppeteer.svg" alt="puppeteer" width="40" height="40"/> </a> 
+      <a href="https://www.selenium.dev" target="_blank"> <img src="https://api.iconify.design/logos:selenium.svg" alt="selenium" width="40" height="40"/> </a> 
       <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
       <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
       <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
       <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-      <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+      <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
+      <a href="https://www.r-project.org/" target="_blank"> <img src="https://api.iconify.design/logos:r-lang.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://pytorch.org/" target="_blank"> <img src="https://api.iconify.design/logos:pytorch.svg" alt="pytorch" width="40" height="40"/> </a>
       <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
       <a href="https://www.tensorflow.org" target="_blank"> <img src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
+      <a href="https://kafka.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:kafka.svg" alt="tensorflow" width="40" height="40"/> </a>
       <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://jupyter.org/" target="_blank"> <img src="https://api.iconify.design/logos:jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
+      <a href="https://www.arduino.cc/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-arduino.svg" alt="arduino" width="40" height="40"/> </a>
  </p>
 </details>
 
