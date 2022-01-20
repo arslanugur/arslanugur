@@ -115,7 +115,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
       <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
       <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-      <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+      <a href="https://jestjs.io" target="_blank"> <img src="https://api.iconify.design/logos:jest.svg" alt="jest" width="40" height="40"/> </a> 
       <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://api.iconify.design/logos:karma.svg" alt="karma" width="40" height="40"/> </a> 
       <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://api.iconify.design/logos:kibana.svg" alt="kibana" width="40" height="40"/> </a> 
       <a href="https://mochajs.org" target="_blank"> <img src="https://api.iconify.design/logos:mocha.svg" alt="mocha" width="40" height="40"/> </a> 
