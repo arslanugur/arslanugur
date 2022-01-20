@@ -81,7 +81,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
-      <a href="https://kotlinlang.org" target="_blank"> <img src="https://api.iconify.design/logos:kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
+      <a href="https://kotlinlang.org" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
       <a href="https://flutter.dev" target="_blank"> <img src="https://api.iconify.design/logos:flutter.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://golang.org" target="_blank"> <img src="https://api.iconify.design/logos:go.svg" alt="go" width="40" height="40"/> </a>
       <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
