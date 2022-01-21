@@ -15,9 +15,7 @@
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="left">
-<a href="https://github.com/arslanugur/projects/tree/master/English%20101">
-  <img alt="Arslan Uğur | English" width="32px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" />
-</a>
+
 <a href="https://instagram.com/arslanuguur">
   <img alt="Arslan Uğur | Instagram" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" />
 </a>
@@ -33,9 +31,23 @@
 <a href="https://www.linkedin.com/in/-ugurarslan-">
   <img alt="Arslan's LinkedIN" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" />
 </a>
-<a href="https://tr.pinterest.com/arslanuguur/_saved/">
+<a href="">
   <img alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" />
-</a>
+</a
+    <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank">
+        <img width="30px" src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="Arslan's English" /></a>
+    <a href="https://instagram.com/arslanuguur" target="_blank">
+        <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
+    <a href="https://stackoverflow.com/users/10667473" target="_blank">
+        <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
+    <a href="https://stackoverflow.com/users/10667473" target="_blank">
+        <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
+    <a href="https://stackoverflow.com/users/10667473" target="_blank">
+        <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
+    <a href="https://stackoverflow.com/users/10667473" target="_blank">
+        <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
+    <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
+        <img width="30px" src="https://api.iconify.design/logos:pinterest.svg" alt="Arslan's Pinterest" /></a>
     <a href="https://stackoverflow.com/users/10667473" target="_blank">
         <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
     <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
