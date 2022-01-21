@@ -63,7 +63,7 @@ occupation: ["English Teacher, Software Developer"]
   <br/>
   <p align="center"> 
       <a href="https://github.com/arslanugur">
-    <img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/pacman.gif" /> </a><br/> 
+    <img width="5%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/pacman.gif" /> </a><br/> 
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
