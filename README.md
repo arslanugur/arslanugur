@@ -5,6 +5,9 @@
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
 </a>
+<a href="https://github.com/arslanugur/arslanugur">
+    <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/coffee.gif" alt="coffee" width="50">
+</a>    
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
 </a>
@@ -57,7 +60,7 @@ occupation: ["English Teacher, Software Developer"]
 
 
     
-<!--Languages and Tools https://iconify.design/-->  
+<!--Languages and Tools https://iconify.design/ swift-->  
 <details>
   <summary> 🛠️ Information Technology Languages and Tools </summary>
   <br/>
