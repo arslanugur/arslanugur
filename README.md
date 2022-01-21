@@ -1,6 +1,5 @@
 <!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
-<p align="center"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mars%20rocket.png" width="350px"> 
-</p>
+
 
 <p align="left">
 <a href="https://github.com/arslanugur/arslanugur">
