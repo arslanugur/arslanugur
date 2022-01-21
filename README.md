@@ -52,7 +52,7 @@
 <p align="center">    
 <a href="https://www.buymeacoffee.com/arslanugur">
   <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/clock.gif" width="250" >
-</a></p>  
+</a>  
 
 
 <!--About-->
