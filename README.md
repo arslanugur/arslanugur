@@ -18,7 +18,7 @@
     <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank">
         <img width="30px" src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="Arslan's English" /></a>
     <a href="https://instagram.com/arslanuguur" target="_blank">
-        <img width="30px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
+        <img width="60px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
         <img width="30px" src="https://api.iconify.design/logos:whatsapp.svg" alt="Arslan's Whatsapp" /></a>
     <a href="https://twitter.com/arslanuguur" target="_blank">
