@@ -57,7 +57,7 @@ occupation: ["English Teacher, Software Developer"]
 
 
     
-<!--Languages and Tools https://iconify.design/ swift-->  
+<!--Languages and Tools https://iconify.design/ -->  
 <details>
   <summary> 🛠️ Information Technology Languages and Tools </summary>
   <br/>
@@ -73,6 +73,7 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
       <a href="https://scala.epfl.ch/" target="_blank"> <img src="https://api.iconify.design/logos:scala.svg" alt="scala" width="40" height="40"/> </a>
+      <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-matlab.svg" alt="matlab" width="40" height="40"/> </a>
       <a href="https://kotlinlang.org" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
       <a href="https://www.swift.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-swift.svg" alt="swift" width="40" height="40"/> </a>
       <a href="https://flutter.dev" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-flutter.svg" alt="flutter" width="40" height="40"/> </a>
