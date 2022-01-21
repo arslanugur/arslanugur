@@ -84,7 +84,7 @@ education: ["English Literature", "Management Information Systems"]
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" alt="js" width="40" height="40"/> </a>
-      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="js" width="40" height="40"/> </a>
+      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
@@ -178,12 +178,12 @@ education: ["English Literature", "Management Information Systems"]
 </p>
 
 
-<!-- 
+
 <p align="center">    
 <a href="https://www.buymeacoffee.com/arslanugur">
-  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/bottom%20light.gif" width="70" >
+  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/blue%20light.gif" width="70" >
 </a>
--->
+
 
 
 
