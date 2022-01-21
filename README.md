@@ -47,7 +47,7 @@
 <a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arslanugur" height="30" width="30" />
 </a><br/>
 </p>
-
+<br/>
 <!--
 <p align="center">    
 <a href="https://www.buymeacoffee.com/arslanugur">
@@ -158,11 +158,12 @@ education: ["English Literature", "Management Information Systems"]
 
 <!--Stats-->
 <p><details>
-  <summary> 📊 Stats </summary> 
-
-<img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
-<img align="center" width="10%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" />
-<img align="center" width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
+  <summary> 📊 Stats </summary>
+    
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
+<img width="10%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
 </details></p>
 
 <!-- Spotify -->
