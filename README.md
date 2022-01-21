@@ -68,7 +68,7 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" alt="js" width="40" height="40"/> </a>
       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
-      <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery.svg" alt="jquery" width="40" height="40"/> </a>
+      <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
