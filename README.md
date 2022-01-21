@@ -1,4 +1,5 @@
-<h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2>
+<!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
+<h2 align="center"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mars%20rocket.png" width="35px"> </h2>
 
 
 <p align="left">
