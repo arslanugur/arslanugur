@@ -72,11 +72,12 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
+      <a href="https://scala.epfl.ch/" target="_blank"> <img src="https://api.iconify.design/logos:scala.svg" alt="scala" width="40" height="40"/> </a>
       <a href="https://kotlinlang.org" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
       <a href="https://flutter.dev" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-flutter.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://golang.org" target="_blank"> <img src="https://api.iconify.design/logos:go.svg" alt="go" width="40" height="40"/> </a>
-      <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
+      <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
       <a href="https://hexo.io/" target="_blank"> <img src="https://api.iconify.design/logos:hexo.svg" alt="hexo" width="40" height="40"/> </a>
@@ -130,7 +131,8 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://pytorch.org/" target="_blank"> <img src="https://api.iconify.design/logos:pytorch.svg" alt="pytorch" width="40" height="40"/> </a>
       <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
       <a href="https://www.tensorflow.org" target="_blank"> <img src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
-      <a href="https://kafka.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:kafka-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+      <a href="https://kafka.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+      <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:hadoop.svg" alt="hadoop" width="40" height="40"/> </a>
       <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://jupyter.org/" target="_blank"> <img src="https://api.iconify.design/logos:jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
