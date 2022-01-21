@@ -36,13 +36,13 @@
 <a href="https://tr.pinterest.com/arslanuguur/_saved/">
   <img alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" />
 </a>
-    <a href="https://stackoverflow.com/users/10667473">
+    <a href="https://stackoverflow.com/users/10667473" target="_blank">
         <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
-    <a href="https://www.reddit.com/user/arslanugr/">
+    <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
         <img width="30px" src="https://api.iconify.design/logos:reddit-icon.svg" alt="Arslan's Reddit" /></a>
-    <a href="https://medium.com/@arslanugur">
+    <a href="https://medium.com/@arslanugur" target="_blank">
         <img width="30px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
-    <a href="https://dev.to/arslanugur">
+    <a href="https://dev.to/arslanugur" target="_blank">
         <img width="30px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 <br/>
 </p>
