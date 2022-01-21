@@ -39,10 +39,12 @@
 <a href="https://stackoverflow.com/users/10667473">
   <img alt="Arslan's StackOverFlow" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
 </a>
-<a href="https://www.reddit.com/user/arslanugr/"> <img alt="Arslan's Reddit" width="52px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" />
-</a>
-<a href="https://medium.com/@arslanugur">  <img width="30px" src="https://api.iconify.design/bx:bxl-medium-square.svg" alt="Arslan's Medium" /></a>
-<a href="https://dev.to/arslanugur">       <img width="30px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
+<a href="https://www.reddit.com/user/arslanugr/">
+    <img width="30px" src="https://api.iconify.design/logos:reddit-icon.svg" alt="Arslan's Reddit" /></a>
+<a href="https://medium.com/@arslanugur">
+    <img width="30px" src="https://api.iconify.design/bx:bxl-medium-square.svg" alt="Arslan's Medium" /></a>
+<a href="https://dev.to/arslanugur">
+    <img width="30px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 <br/>
 </p>
 <br/>
