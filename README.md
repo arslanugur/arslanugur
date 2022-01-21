@@ -39,10 +39,13 @@
         <img width="25px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 </p>
 
+
+<!--
 <p align="center">
 <a href="https://github.com/arslanugur">
     <img width="10%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/bunny.gif" /> </a>   
 </p>
+-->
 
 <!--About-->
 <p align="left">
