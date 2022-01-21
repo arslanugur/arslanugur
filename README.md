@@ -162,7 +162,7 @@ education: ["English Literature", "Management Information Systems"]
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
 <img align="center" width="10%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" />
-<img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
+<img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
 </details></p>
 
 <!-- Spotify -->
