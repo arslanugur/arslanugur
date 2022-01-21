@@ -54,7 +54,7 @@
   <img src="https://github.com/arslanugur/arslanugur/blob/arslan/fox.gif" width="100" >
 </a>
 -->  
-<p align="center"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" width="100px"> </p>
+
 
 <br/>
 <!--About-->
@@ -162,7 +162,7 @@ education: ["English Literature", "Management Information Systems"]
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
 <img align="center" width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
-    
+<p align="right"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" width="100px"> </p>    
 </details></p>
 
 <!-- Spotify -->
