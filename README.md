@@ -14,7 +14,7 @@
 
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
-<p align="left">
+<p align="center">
     <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank">
         <img width="30px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" alt="Arslan's English" /></a>
     <a href="https://instagram.com/arslanuguur">
@@ -61,7 +61,7 @@ occupation: ["English Teacher, Software Developer"]
 <details>
   <summary> 🛠️ Information Technology Languages and Tools </summary>
   <br/>
-  <p align="left"> 
+  <p align="center"> 
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
