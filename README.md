@@ -16,27 +16,27 @@
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="left">
     <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank">
-        <img width="30px" src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="Arslan's English" /></a>
-    <a href="https://instagram.com/arslanuguur" target="_blank">
-        <img width="60px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
+        <img width="30px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" alt="Arslan's English" /></a>
+    <a href="https://instagram.com/arslanuguur">
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
-        <img width="30px" src="https://api.iconify.design/logos:whatsapp.svg" alt="Arslan's Whatsapp" /></a>
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/WhatsApp-Logo.svg" alt="Arslan's Whatsapp" /></a>
     <a href="https://twitter.com/arslanuguur" target="_blank">
-        <img width="30px" src="https://api.iconify.design/logos:twitter.svg" alt="Arslan's Twitter" /></a>
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" alt="Arslan's Twitter" /></a>
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
-        <img width="30px" src="https://api.iconify.design/logos:youtube-icon.svg" alt="Arslan's Youtube" /></a>
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" alt="Arslan's Youtube" /></a>
     <a href="https://www.linkedin.com/in/-ugurarslan-" target="_blank">
-        <img width="30px" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="Arslan's LinkedIn" /></a>
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" alt="Arslan's LinkedIn" /></a>
     <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
-        <img width="30px" src="https://api.iconify.design/logos:pinterest.svg" alt="Arslan's Pinterest" /></a>
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" alt="Arslan's Pinterest" /></a>
     <a href="https://stackoverflow.com/users/10667473" target="_blank">
-        <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" alt="Arslan's StackOverFlow" /></a>
     <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
-        <img width="30px" src="https://api.iconify.design/logos:reddit-icon.svg" alt="Arslan's Reddit" /></a>
+        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" alt="Arslan's Reddit" /></a>
     <a href="https://medium.com/@arslanugur" target="_blank">
-        <img width="30px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
+        <img width="40px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
     <a href="https://dev.to/arslanugur" target="_blank">
-        <img width="30px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
+        <img width="40px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 </p>
 <br/>
 
