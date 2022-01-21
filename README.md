@@ -162,7 +162,7 @@ education: ["English Literature", "Management Information Systems"]
     
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
-<img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" />
+<img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/Rocket%20Launch.gif" />
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
 </details></p>
 
