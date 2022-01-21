@@ -79,6 +79,7 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://flutter.dev" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-flutter.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://golang.org" target="_blank"> <img src="https://api.iconify.design/logos:go.svg" alt="go" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
+      <a href="https://www.sas.com/en_us/home.html" target="_blank"> <img src="https://api.iconify.design/file-type-sas.svg" alt="sas" width="40" height="40"/> </a>
       <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -111,7 +112,8 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://jestjs.io" target="_blank"> <img src="https://api.iconify.design/logos:jest.svg" alt="jest" width="40" height="40"/> </a> 
       <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://api.iconify.design/logos:karma.svg" alt="karma" width="40" height="40"/> </a> 
       <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://api.iconify.design/logos:kibana.svg" alt="kibana" width="40" height="40"/> </a> 
-      <a href="https://mochajs.org" target="_blank"> <img src="https://api.iconify.design/logos:mocha.svg" alt="mocha" width="40" height="40"/> </a> 
+      <a href="https://mochajs.org" target="_blank"> <img src="https://api.iconify.design/logos:mocha.svg" alt="mocha" width="40" height="40"/> </a>
+      <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img src="https://api.iconify.design/file-type-plsql.svg" alt="mocha" width="40" height="40"/> </a>
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> 
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
