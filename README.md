@@ -44,7 +44,7 @@
 <a href="https://medium.com/@arslanugur">
    <img align="left" alt="Arslan's Medium" width="25px" src="https://api.iconify.design/ant-design:medium-square-filled.svg" />
 </a>
-<a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://api.iconify.design/fa-brands:dev.svg" alt="arslanugur" height="30" width="30" />
+<a href="https://dev.to/arslanugur" target="blank"><img align="left" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur" height="30" width="30" />
 </a><br/>
 </p>
 <br/>
