@@ -54,7 +54,7 @@
   <img src="https://github.com/arslanugur/arslanugur/blob/arslan/fox.gif" width="100" >
 </a>
 -->  
-<p align="center"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" width="150px"> </p>
+<p align="center"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" width="100px"> </p>
 
 <br/>
 <!--About-->
