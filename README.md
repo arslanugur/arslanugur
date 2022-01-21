@@ -1,5 +1,5 @@
 <!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
-<h2 align="center"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mars%20rocket.png" width="35px"> </h2>
+<h2 align="center"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mars%20rocket.png" width="350px"> </h2>
 
 
 <p align="left">
@@ -177,12 +177,12 @@ education: ["English Literature", "Management Information Systems"]
 </p>
 
 
-
+<!-- 
 <p align="center">    
 <a href="https://www.buymeacoffee.com/arslanugur">
   <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/bottom%20light.gif" width="70" >
 </a>
-
+-->
 
 
 
