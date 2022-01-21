@@ -36,15 +36,14 @@
 <a href="https://tr.pinterest.com/arslanuguur/_saved/">
   <img alt="Arslan's Spotify" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" />
 </a>
-<a href="https://stackoverflow.com/users/10667473">
-  <img alt="Arslan's StackOverFlow" width="42px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" />
-</a>
-<a href="https://www.reddit.com/user/arslanugr/">
-    <img width="30px" src="https://api.iconify.design/logos:reddit-icon.svg" alt="Arslan's Reddit" /></a>
-<a href="https://medium.com/@arslanugur">
-    <img width="30px" src="https://api.iconify.design/bx:bxl-medium-square.svg" alt="Arslan's Medium" /></a>
-<a href="https://dev.to/arslanugur">
-    <img width="30px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
+    <a href="https://stackoverflow.com/users/10667473">
+        <img width="30px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="Arslan's StackOverFlow" /></a>
+    <a href="https://www.reddit.com/user/arslanugr/">
+        <img width="30px" src="https://api.iconify.design/logos:reddit-icon.svg" alt="Arslan's Reddit" /></a>
+    <a href="https://medium.com/@arslanugur">
+        <img width="30px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
+    <a href="https://dev.to/arslanugur">
+        <img width="30px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 <br/>
 </p>
 <br/>
