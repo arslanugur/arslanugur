@@ -34,9 +34,9 @@
     <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" alt="Arslan's Reddit" /></a>
     <a href="https://medium.com/@arslanugur" target="_blank">
-        <img width="20px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
+        <img width="24px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
     <a href="https://dev.to/arslanugur" target="_blank">
-        <img width="20px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
+        <img width="24px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 </p>
 <br/>
 
