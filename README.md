@@ -5,6 +5,10 @@
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
 </a>
+    <p align="center">    
+<a href="https://www.buymeacoffee.com/arslanugur">
+  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/blue%20light.gif" width="50" >
+</a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
 </a>
@@ -183,10 +187,7 @@ education: ["English Literature", "Management Information Systems"]
 </a>
 
 
-<p align="center">    
-<a href="https://www.buymeacoffee.com/arslanugur">
-  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/blue%20light.gif" width="70" >
-</a>
+
 
 
 
