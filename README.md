@@ -4,10 +4,7 @@
 <p align="left">
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
-</a>
-<a href="https://github.com/arslanugur/arslanugur">
-    <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/coffee.gif" alt="coffee" width="50">
-</a>    
+</a>   
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
 </a>
