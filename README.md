@@ -155,8 +155,10 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://jupyter.org/" target="_blank"> <img src="https://api.iconify.design/logos:jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-arduino.svg" alt="arduino" width="40" height="40"/> </a>
  </div></td><td valign="top" width="33%">
+</div></td></tr></table>  
     </p> 
 </details>
+
 
 
 <!--Stats-->
