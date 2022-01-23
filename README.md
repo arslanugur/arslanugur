@@ -66,7 +66,7 @@ occupation: ["English Teacher, Software Developer"]
     
 <!--Languages and Tools https://iconify.design/ -->  
 <details>
-  <summary> 🛠️ Information Technology Languages and Tools </summary>
+  <summary> 🛠️ Information Technology Languages and Tools </summary> <br/>
   <!--
   <p align="center">
 <a href="https://github.com/arslanugur">
@@ -167,9 +167,8 @@ occupation: ["English Teacher, Software Developer"]
 
 <!--Stats-->
 <p><details>
-  <summary> 📊 Stats </summary>
-    
-<p align="center">
+  <summary> 📊 Stats </summary><br/>
+    <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
 <a href="https://github.com/arslanugur">
     <img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a>   
