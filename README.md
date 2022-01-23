@@ -70,7 +70,7 @@ occupation: ["English Teacher, Software Developer"]
   <br/>
   <p align="center">
 <a href="https://github.com/arslanugur">
-    <img width="10%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/Develop.gif" /> </a>   
+    <img width="30%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/Develop.gif" /> </a>   
 </p>
   <p align="center"> 
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
