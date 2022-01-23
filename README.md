@@ -67,10 +67,11 @@ occupation: ["English Teacher, Software Developer"]
 <!--Languages and Tools https://iconify.design/ -->  
 <details>
   <summary> 🛠️ Information Technology Languages and Tools </summary>
+  <!--
   <p align="center">
 <a href="https://github.com/arslanugur">
     <img width="50%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/Develop.gif" /> </a>   
-</p>
+</p> -->  
   <p align="center"> 
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
