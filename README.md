@@ -177,7 +177,7 @@ occupation: ["English Teacher, Software Developer"]
 
 <!-- Spotify -->
 <p align="center">
-    <a href="https://open.spotify.com/user/11139457861">
+    <a href="https://open.spotify.com/playlist/4F63lVsqsa7xa9rGdLLRb4?si=TGLCuEyWTFiTKxkRnzVh9g&utm_source=copy-link">
   <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a><br/>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
