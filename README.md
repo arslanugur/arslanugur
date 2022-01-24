@@ -66,7 +66,7 @@ occupation: ["English Teacher, Software Developer"]
     
 <!--Languages and Tools https://iconify.design/ -->  
 <details>
-  <summary> 🛠️ Information Technology Languages and Tools </summary> <br/>
+  <summary> 🛠️ Languages and Tools </summary> <br/>
   <!--
   <p align="center">
 <a href="https://github.com/arslanugur">
