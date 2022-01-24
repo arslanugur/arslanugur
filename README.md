@@ -116,6 +116,9 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://www.cypress.io" target="_blank"> <img src="https://api.iconify.design/simple-icons:cypress.svg" alt="cypress" width="40" height="40"/> </a>
       <a href="https://www.docker.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-docker2.svg" alt="docker" width="40" height="40"/> </a>
       <a href="https://kubernetes.io" target="_blank"> <img src="https://api.iconify.design/logos:kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
+      <a href="https://www.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:apache.svg" alt="apache" width="40" height="40"/> </a> 
+      <a href="https://www.nginx.com" target="_blank"> <img src="https://api.iconify.design/logos:nginx.svg" alt="nginx" width="40" height="40"/> </a>
+      <a href="https://www.lighttpd.net/" target="_blank"> <img src="https://api.iconify.design/logos:lighttpd.svg" alt="lighttpd" width="40" height="40"/> </a> 
       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
       <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
       <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a> 
@@ -132,10 +135,10 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-plsql.svg" alt="sql" width="40" height="40"/> </a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> 
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width="50" height="50"/> </a>
-      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="mongodb" width="50" height="50"/> </a> 
+      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="mongodb" width="50" height="50"/> </a>
+      <a href="https://mariadb.org/" target="_blank"> <img src="https://api.iconify.design/logos:mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
       <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-      <a href="https://redis.io" target="_blank"> <img src="https://api.iconify.design/logos:redis.svg" alt="redis" width="40" height="40"/> </a> 
-      <a href="https://www.nginx.com" target="_blank"> <img src="https://api.iconify.design/logos:nginx.svg" alt="nginx" width="40" height="40"/> </a> 
+      <a href="https://redis.io" target="_blank"> <img src="https://api.iconify.design/logos:redis.svg" alt="redis" width="40" height="40"/> </a>
       <a href="https://www.php.net" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-php.svg" alt="php" width="40" height="40"/> </a> 
       <a href="https://www.postgresql.org" target="_blank"> <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
       <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
