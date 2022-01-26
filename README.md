@@ -24,7 +24,6 @@
     <a href="https://www.linkedin.com/in/-ugurarslan-" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" alt="Arslan's LinkedIn" /></a>
     <a href="https://twitter.com/arslanuguur" target="_blank">
-        <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="20" height="20"/> </a>
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" alt="Arslan's Twitter" /></a>
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" alt="Arslan's Youtube" /></a>
@@ -40,6 +39,9 @@
         <img width="25px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 </p>
 
+<p align="center">
+    <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="20" height="20"/> </a>
+</p>
 
 <!--
 <p align="center">
