@@ -15,8 +15,6 @@
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
-    <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank">
-        <img width="30px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" alt="Arslan's English" /></a>
     <a href="https://instagram.com/arslanuguur">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
@@ -40,7 +38,8 @@
 </p>
 
 <p align="center">
-    <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="20" height="20"/> </a>
+    <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank" <img src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/English.svg" alt="English" width="30px" /></a>
+    <a href="https://github.com/arslanugur/py" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="20" height="20"/> </a>
 </p>
 
 <!--
