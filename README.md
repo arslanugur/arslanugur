@@ -65,7 +65,6 @@ occupation: ["English Teacher, Software Developer"]
 </details> </p>
 
 
-
     
 <!--Languages and Tools https://iconify.design/ -->  
 <details>
@@ -80,12 +79,13 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" alt="js" width="40" height="40"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" width="40" height="40"/> </a>
       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
       <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
+      <a href="https://tailwindcss.com/" target="_blank"> <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
       <a href="https://rubyonrails.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" alt="ruby" width="40" height="40"/> </a>
@@ -135,8 +135,8 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://api.iconify.design/logos:karma.svg" alt="karma" width="40" height="40"/> </a> 
       <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://api.iconify.design/logos:kibana.svg" alt="kibana" width="40" height="40"/> </a> 
       <a href="https://mochajs.org" target="_blank"> <img src="https://api.iconify.design/logos:mocha.svg" alt="mocha" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-plsql.svg" alt="sql" width="40" height="40"/> </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> 
+      <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-plsql.svg" width="40" height="40"/> </a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/> </a> 
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width="50" height="50"/> </a>
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="mongodb" width="50" height="50"/> </a>
       <a href="https://mariadb.org/" target="_blank"> <img src="https://api.iconify.design/logos:mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
@@ -157,15 +157,16 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://www.meteor.com/" target="_blank"> <img src="https://api.iconify.design/logos:meteor-icon.svg" alt="meteor" width="40" height="40"/> </a>
       <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://www.r-project.org/" target="_blank"> <img src="https://api.iconify.design/logos:r-lang.svg" alt="figma" width="40" height="40"/> </a>
-      <a href="https://pytorch.org/" target="_blank"> <img src="https://api.iconify.design/logos:pytorch.svg" alt="pytorch" width="40" height="40"/> </a>
-      <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
-      <a href="https://www.tensorflow.org" target="_blank"> <img src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
       <a href="https://kafka.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
       <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:hadoop.svg" alt="hadoop" width="40" height="40"/> </a>
       <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" alt="spark" width="40" height="40"/> </a>
-      <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
-      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://jupyter.org/" target="_blank"> <img src="https://api.iconify.design/logos:jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
+      <a href="https://numpy.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-numpy.svg" alt="numpy" width="40" height="40"/> </a>
+      <a href="https://pytorch.org/" target="_blank"> <img src="https://api.iconify.design/logos:pytorch.svg" alt="pytorch" width="40" height="40"/> </a>
+      <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
+      <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
+      <a href="https://www.tensorflow.org" target="_blank"> <img src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
+      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-arduino.svg" alt="arduino" width="40" height="40"/> </a>
     </p> 
 </details>
