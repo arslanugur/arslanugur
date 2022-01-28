@@ -11,9 +11,9 @@
 </p>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
-<p>
+<p align="center">
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
-  <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/original.jpg" alt="Buy Me A Coffee" width="200" height="20" >
+  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/original.jpg" alt="Buy Me A Coffee" width="200" height="20" >
 </a> 
 </p>
 
