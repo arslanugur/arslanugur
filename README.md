@@ -4,13 +4,17 @@
 <p align="left">
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />
-</a>   
+</a>
+<a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
+  <img align="middle" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/original.jpg" alt="Buy Me A Coffee" width="200" height="10" >
+</a>    
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
 </a>
 </p>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
+
 
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
