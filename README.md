@@ -36,7 +36,7 @@
         <img width="25px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
+<a href="https://instagram.com/arslanuguur" target="_blank">
   <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/original.jpg" alt="Buy Me A Coffee" width="200" height="20" >
 </a> 
 </p>
