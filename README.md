@@ -74,7 +74,7 @@ occupation: ["English Teacher, Software Developer"]
 <a href="https://github.com/arslanugur">
     <img width="50%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/Develop.gif" /> </a>   
 </p> -->  
-  <p align="center"> 
+  <p align="center">
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -162,6 +162,7 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" alt="spark" width="40" height="40"/> </a>
       <a href="https://jupyter.org/" target="_blank"> <img src="https://api.iconify.design/logos:jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
       <a href="https://numpy.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-numpy.svg" alt="numpy" width="40" height="40"/> </a>
+      <a href="https://matplotlib.org/" target="_blank"> <img src="https://api.iconify.design/logos:matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
       <a href="https://pytorch.org/" target="_blank"> <img src="https://api.iconify.design/logos:pytorch.svg" alt="pytorch" width="40" height="40"/> </a>
       <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/> </a>
       <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
