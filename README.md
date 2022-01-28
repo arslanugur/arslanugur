@@ -11,11 +11,7 @@
 </p>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.png)](http://linkedin.com/in/-ugurarslan-)
-<p align="center">
-<a href="https://instagram.com/arslanuguur" target="_blank">
-  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/original.jpg" alt="Buy Me A Coffee" width="200" height="20" >
-</a> 
-</p>
+
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
