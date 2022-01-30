@@ -90,12 +90,14 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
       <a href="https://rubyonrails.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" alt="ruby" width="40" height="40"/> </a>
       <a href="https://scala.epfl.ch/" target="_blank"> <img src="https://api.iconify.design/logos:scala.svg" alt="scala" width="40" height="40"/> </a>
+      <a href="https://www.r-project.org/" target="_blank"> <img src="https://api.iconify.design/logos:r-lang.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-matlab.svg" alt="matlab" width="40" height="40"/> </a>
       <a href="https://kotlinlang.org" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
       <a href="https://www.swift.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-swift.svg" alt="swift" width="40" height="40"/> </a>
       <a href="https://flutter.dev" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-flutter.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://golang.org" target="_blank"> <img src="https://api.iconify.design/logos:go.svg" alt="go" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
+      <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://aurelia.io/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-aurelia.svg" alt="aurelia" width="40" height="40"/> </a>
       <a href="https://www.sas.com/en_us/home.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-sas.svg" alt="sas" width="40" height="40"/> </a>
       <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
@@ -155,11 +157,9 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://gruntjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:grunt.svg" alt="grunt" width="40" height="40"/> </a>
       <a href="https://emberjs.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-ember.svg" alt="ember" width="40" height="40"/> </a>
       <a href="https://www.meteor.com/" target="_blank"> <img src="https://api.iconify.design/logos:meteor-icon.svg" alt="meteor" width="40" height="40"/> </a>
-      <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
-      <a href="https://www.r-project.org/" target="_blank"> <img src="https://api.iconify.design/logos:r-lang.svg" alt="figma" width="40" height="40"/> </a>
-      <a href="https://kafka.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
       <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:hadoop.svg" alt="hadoop" width="40" height="40"/> </a>
       <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" alt="spark" width="40" height="40"/> </a>
+      <a href="https://kafka.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
       <a href="https://jupyter.org/" target="_blank"> <img src="https://api.iconify.design/logos:jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
       <a href="https://numpy.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-numpy.svg" alt="numpy" width="40" height="40"/> </a>
       <a href="https://matplotlib.org/" target="_blank"> <img src="https://api.iconify.design/logos:matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
