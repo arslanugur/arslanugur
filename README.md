@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />   
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
-  <img align="center" src="https://api.iconify.design/logos:treasuredata-icon.svg" alt="Buy Me A Coffee" width="110" >
+  <img align="centre" src="https://api.iconify.design/logos:treasuredata-icon.svg" alt="Buy Me A Coffee" width="10" >
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
