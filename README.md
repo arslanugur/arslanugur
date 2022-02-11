@@ -5,6 +5,7 @@
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />   
 </a>
+</p>    
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="centre" src="https://api.iconify.design/logos:treasuredata-icon.svg" alt="Buy Me A Coffee" width="10" >
 </a>
