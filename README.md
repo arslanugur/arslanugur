@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-    **current works**
+    current works
 </p>    
 <p align="center">
     <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="English" width="20px" /></a>
