@@ -39,7 +39,7 @@
 <p align="center">
     current works
 </p>
-<p>
+<p align="center">
     <img src="https://github.com/arslanugur/arslanugur/blob/arslan/oilpump.gif" width="105px">
 </p>    
 <p align="center">
