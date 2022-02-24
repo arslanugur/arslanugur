@@ -36,17 +36,11 @@
         <img width="25px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 </p>
 
-<!--
+
 <p align="center">
 <a href="https://github.com/arslanugur">
-    <img width="10%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/liberty.gif" /> </a>   
+    <img width="10%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/oilpump.gif" /> </a>   
 </p>
--->
-
-<p align="center"> 
-    current works
-</p>
-
 
 <p align="center">
     <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="English" width="20px" /></a>
