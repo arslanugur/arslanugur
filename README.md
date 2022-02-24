@@ -49,7 +49,7 @@
 
 <p align="center">
 <a href="https://github.com/arslanugur">
-    <img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/blueneonline.png" /> </a>   
+    <img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/pinkneonline.png" /> </a>   
 </p>
 
 <p align="center">
