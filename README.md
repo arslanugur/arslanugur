@@ -49,7 +49,7 @@
 
 <p align="center">
     <a href="https://www.citypng.com/photo/13195/hd-blue-neon-glowing-line-effect-png" title="HD Blue Neon Glowing Line Effect PNG">
-    <img src="https://www.citypng.com/public/uploads/preview/hd-blue-neon-glowing-line-effect-png-316251020423dhig1i8wb.png" width="15px" /></a> 
+    <img src="https://www.citypng.com/public/uploads/preview/hd-blue-neon-glowing-line-effect-png-316251020423dhig1i8wb.png" width="50px" /></a> 
 </p>
 
 <p align="center">
