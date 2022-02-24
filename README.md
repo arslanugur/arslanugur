@@ -196,7 +196,7 @@ occupation: ["English Teacher, Software Developer"]
 </a>
     <a href="https://github.com/arslanugur" target="_blank">
   <img align="right" src="https://github.com/arslanugur/arslanugur/blob/arslan/QR.jpg" alt="QR-Code" width="60" >
-</a> </p> <br/>
+</a> </p>
 
 <p align="left">
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
