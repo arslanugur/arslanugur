@@ -199,7 +199,7 @@ occupation: ["English Teacher, Software Developer"]
   </a> </p>
 
 <p align="center">
-    <a href="https://github.com/arslanugur" target="_blank">
+    <a href="https://github.com/arslanugur/arslanugur/blob/arslan/QR.jpg" target="_blank">
   <img src="https://github.com/arslanugur/arslanugur/blob/arslan/QR.jpg" alt="QR-Code" width="70" >
 </a> </p>
 
