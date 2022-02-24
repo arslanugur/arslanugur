@@ -190,9 +190,9 @@ occupation: ["English Teacher, Software Developer"]
 </details></p>
 
 <!-- Spotify -->
-<p>
+<p align="left">
     <a href="https://open.spotify.com/playlist/4F63lVsqsa7xa9rGdLLRb4?si=TGLCuEyWTFiTKxkRnzVh9g&utm_source=copy-link">
-  <img align="left" width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
+  <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a>
     <a href="https://github.com/arslanugur" target="_blank">
   <img align="right" src="https://github.com/arslanugur/arslanugur/blob/arslan/QR.jpg" alt="QR-Code" width="60" >
