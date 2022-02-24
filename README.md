@@ -1,5 +1,9 @@
 <!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
 
+
+
+[![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.gif)](http://linkedin.com/in/-ugurarslan-)
+
 <p align="left">
 <a href="https://github.com/arslanugur/arslanugur">
     <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />   
@@ -8,9 +12,6 @@
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
 </a>
 </p>
-
-[![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.gif)](http://linkedin.com/in/-ugurarslan-)
-
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
