@@ -95,8 +95,10 @@ occupation: ["English Teacher, Software Developer"]
       <a href="https://www.swift.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-swift.svg" alt="swift" width="40" height="40"/> </a>
       <a href="https://flutter.dev" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-flutter.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://golang.org" target="_blank"> <img src="https://api.iconify.design/logos:go.svg" alt="go" width="40" height="40"/> </a>
-      <a href="https://dart.dev" target="_blank"> <img src="https://api.iconify.design/logos:dart.svg" alt="go" width="40" height="40"/> </a>
+      <a href="https://dart.dev" target="_blank"> <img src="https://api.iconify.design/logos:dart.svg" alt="dart" width="40" height="40"/> </a>
+      <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" alt="rust" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
+      <a href="https://julialang.org/" target="_blank"> <img src="https://api.iconify.design/logos:julia.svg" alt="julia" width="40" height="40"/> </a>
       <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://aurelia.io/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-aurelia.svg" alt="aurelia" width="40" height="40"/> </a>
       <a href="https://www.sas.com/en_us/home.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-sas.svg" alt="sas" width="40" height="40"/> </a>
