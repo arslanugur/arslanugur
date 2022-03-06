@@ -46,6 +46,7 @@
     <a href="https://github.com/arslanugur/py" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/projects/tree/master/German%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
     <a href="https://github.com/arslanugur/projects/tree/master/Russian%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-russia.svg" alt="Russian" width="20" height="20"/> </a>
+    <a href="https://github.com/arslanugur/cpp" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-cpp2.svg" alt="cpp" width="20" height="20"/> </a>
 </p>
 
 
