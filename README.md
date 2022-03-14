@@ -203,8 +203,13 @@ occupation: ["English Teacher, Software Developer"]
 </a></p>
 
 
-<h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/arslanuguur"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=arslanuguur&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<!-- <h2>Latest Tweets</h2> -->
+<p align="center">
+    <a href="https://twitter.com/arslanuguur">
+    <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" />
+    <a href="https://twitter.com/arslanuguur">
+    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=arslanuguur&amp;layout=wide" alt="github-readme-twitter">
+</a></p>
 
 
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=gotham" alt="arslanugur" />   -->
