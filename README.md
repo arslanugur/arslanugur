@@ -191,26 +191,21 @@ occupation: ["English Teacher, Software Developer"]
 <!-- Spotify -->
 <p align="center">
     <a href="https://open.spotify.com/playlist/4F63lVsqsa7xa9rGdLLRb4?si=TGLCuEyWTFiTKxkRnzVh9g&utm_source=copy-link">
-  <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
+    <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a><br/>
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
-  </a> </p>
+</a></p>
 
 <p align="center">
     <a href="https://github.com/arslanugur" target="_blank">
-  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/QR.jpg" alt="QR-Code" width="70" >
-</a> </p>
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/QR.jpg" alt="QR-Code" width="70" >
+</a></p>
 
 
-
-
-
-
-<!--
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/arslanuguur"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=arslanuguur&amp;layout=wide" alt="github-readme-twitter"></a></p>
--->
+
 
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=gotham" alt="arslanugur" />   -->
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanugur&hide=TeX&layout=compact)  -->
