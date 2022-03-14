@@ -206,8 +206,6 @@ occupation: ["English Teacher, Software Developer"]
 <!-- <h2>Latest Tweets</h2> -->
 <p align="center">
     <a href="https://twitter.com/arslanuguur">
-    <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" />
-    <a href="https://twitter.com/arslanuguur">
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=arslanuguur&amp;layout=wide" alt="github-readme-twitter">
 </a></p>
 
