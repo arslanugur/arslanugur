@@ -1,9 +1,9 @@
 <!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
+<!-- https://zzetao.github.io/awesome-github-profile/ -->
+
 
 <p align="left">
-<a href="https://github.com/arslanugur/arslanugur">
-    <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />   
-</a>
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arslanugur.arslanugur)
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
 </a>
