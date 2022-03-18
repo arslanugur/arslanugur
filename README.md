@@ -238,6 +238,8 @@ occupation: ["English Teacher, Software Developer"]
 <br/>     
 -->
 
+<p align="right"><sub>Generated using <a href="https://github.com/arslanugur">teoxoy/profile-readme-stats</a></sub></p>
+
 <!--END_SECTION:waka-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
