@@ -1,6 +1,7 @@
 <!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
 <!-- https://zzetao.github.io/awesome-github-profile/ -->
 
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=arslanugur.arslanugur" alt="visitors"></p>
 
 <p align="left">
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
