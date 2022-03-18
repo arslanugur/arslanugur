@@ -3,7 +3,8 @@
 
 
 <p align="left">
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arslanugur.arslanugur)
+<a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View: ">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visits" align="right" alt="Profile View: "></a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
 </a>
