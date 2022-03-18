@@ -3,8 +3,8 @@
 
 
 <p align="left">
-<a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View:">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View:" alt="Profile View:" width="110">
+<a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View" alt="Profile View" width="110">
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
