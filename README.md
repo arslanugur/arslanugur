@@ -58,10 +58,10 @@
  <summary> ✨ About </summary>
 
 ```yaml
-      name: Uğur Arslan
-  location: İstanbul, Turkey
- education: ["English Literature", "Management Information Systems"]  
-occupation: ["English Teacher, Software Developer"]
+      name = Uğur Arslan
+  location = İstanbul, Turkey
+ education = ["English Literature", "Management Information Systems"]  
+occupation = {"English Teacher", "Software Developer"}
 ```
 
 </details> </p>
