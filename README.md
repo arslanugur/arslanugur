@@ -60,8 +60,8 @@
 ```yaml
       name: Uğur Arslan
   location: İstanbul, Turkey
+ education: ["English Literature", "Management Information Systems"]  
 occupation: ["English Teacher, Software Developer"]
- education: ["English Literature", "Management Information Systems"]
 ```
 
 </details> </p>
