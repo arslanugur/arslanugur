@@ -58,7 +58,7 @@
 <p align="center">
     <a href="https://github.com/arslanugur/py" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/cpp" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cpp" width="20" height="20"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" width="20" height="20"/> </a>
+    <a href="https://github.com/arslanugur/js" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/shell" target="_blank"> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="shell" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/projects/tree/master/Web%20Programming" target="_blank"> <img src="https://api.iconify.design/logos:webplatform.svg" alt="webdesign" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/projects/tree/master/Blockchain" target="_blank"> <img src="https://api.iconify.design/logos:bitcoin.svg" alt="blockchain" width="20" height="20"/> </a>
