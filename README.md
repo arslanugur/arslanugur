@@ -59,7 +59,7 @@
     <a href="https://github.com/arslanugur/py" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/cpp" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cpp" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/js" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" width="20" height="20"/> </a>
-    <a href="https://github.com/arslanugur/projects/tree/master/Web%20Programming" target="_blank"> <img src="https://api.iconify.design/emojione-v1:three-networked-computers.svg" alt="webdesign" width="20" height="20"/> </a>   <!-- logos:webplatform -->
+    <a href="https://github.com/arslanugur/projects/tree/master/Web%20Programming" target="_blank"> <img src="https://api.iconify.design/logos:webplatform.svg" alt="webdesign" width="20" height="20"/> </a> 
     <a href="https://github.com/arslanugur/shell" target="_blank"> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="shell" width="20" height="20"/> </a>  
     <a href="https://github.com/arslanugur/projects/tree/master/Blockchain" target="_blank"> <img src="https://api.iconify.design/logos:bitcoin.svg" alt="blockchain" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/py/tree/master/Machine%20Learning" target="_blank"> <img src="https://api.iconify.design/emojione:robot-face.svg" alt="machinelearning" width="20" height="20"/> </a>  
