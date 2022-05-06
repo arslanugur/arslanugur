@@ -94,16 +94,16 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
+      <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" width="40" height="40"/> </a>
-      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
-      <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
-      <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
-      <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
+      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
+      <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
+      <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
       <a href="https://rubyonrails.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" alt="ruby" width="40" height="40"/> </a>
       <a href="https://scala.epfl.ch/" target="_blank"> <img src="https://api.iconify.design/logos:scala.svg" alt="scala" width="40" height="40"/> </a>
       <a href="https://www.r-project.org/" target="_blank"> <img src="https://api.iconify.design/logos:r-lang.svg" alt="figma" width="40" height="40"/> </a>
