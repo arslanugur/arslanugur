@@ -100,6 +100,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
+      <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
@@ -134,8 +135,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://git-scm.com/" target="_blank"> <img src="https://api.iconify.design/logos:git-icon.svg" alt="git" width="40" height="40"/> </a> 
       <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://api.iconify.design/logos:bash-icon.svg" alt="bash" width="40" height="40"/> </a>
       <a href="https://circleci.com" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-circleci.svg" alt="circleci" width="40" height="40"/> </a> 
-      <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
-      <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
+      <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a>
       <a href="https://www.cypress.io" target="_blank"> <img src="https://api.iconify.design/simple-icons:cypress.svg" alt="cypress" width="40" height="40"/> </a>
       <a href="https://www.docker.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-docker2.svg" alt="docker" width="40" height="40"/> </a>
       <a href="https://kubernetes.io" target="_blank"> <img src="https://api.iconify.design/logos:kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
