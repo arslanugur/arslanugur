@@ -104,6 +104,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
@@ -186,7 +187,6 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
       <a href="https://opencv.org/" target="_blank"> <img src="https://api.iconify.design/logos:opencv.svg" alt="opencv" width="40" height="40"/> </a>
       <a href="https://www.tensorflow.org" target="_blank"> <img src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
-      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-arduino.svg" alt="arduino" width="40" height="40"/> </a>
     </p> 
 </details>
