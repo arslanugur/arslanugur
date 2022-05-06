@@ -101,6 +101,10 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
+      <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+      <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
       <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
@@ -120,11 +124,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://aurelia.io/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-aurelia.svg" alt="aurelia" width="40" height="40"/> </a>
       <a href="https://www.sas.com/en_us/home.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-sas.svg" alt="sas" width="40" height="40"/> </a>
       <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
-      <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
       <a href="https://hexo.io/" target="_blank"> <img src="https://api.iconify.design/logos:hexo.svg" alt="hexo" width="40" height="40"/> </a>
-      <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://www.linux.org/" target="_blank"> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="linux" width="40" height="40"/> </a>
       <a href="https://ubuntu.com/" target="_blank"> <img src="https://api.iconify.design/logos:ubuntu.svg" alt="linux" width="40" height="40"/> </a>
       <a href="https://www.kali.org" target="_blank"> <img src="https://api.iconify.design/simple-icons:kalilinux.svg" alt="linux" width="45" height="45"/> </a>
