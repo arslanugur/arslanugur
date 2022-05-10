@@ -109,6 +109,8 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a> 
+      <a href="https://www.php.net" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-php.svg" alt="php" width="40" height="40"/> </a> 
+      <a href="https://www.laravel.com" target="_blank"> <img src="https://api.iconify.design/logos:laravel.svg" alt="laravel" width="40" height="40"/> </a> 
       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
       <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
@@ -164,7 +166,6 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://mariadb.org/" target="_blank"> <img src="https://api.iconify.design/logos:mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
       <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
       <a href="https://redis.io" target="_blank"> <img src="https://api.iconify.design/logos:redis.svg" alt="redis" width="40" height="40"/> </a>
-      <a href="https://www.php.net" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-php.svg" alt="php" width="40" height="40"/> </a> 
       <a href="https://www.postgresql.org" target="_blank"> <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
       <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
       <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
