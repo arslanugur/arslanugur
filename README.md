@@ -91,7 +91,6 @@ occupation: {"English Teacher", "Software Developer"}
 </p> -->  
   <p align="center">
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
-      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
@@ -108,6 +107,8 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
+      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a> 
       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
       <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
@@ -146,7 +147,6 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.nginx.com" target="_blank"> <img src="https://api.iconify.design/logos:nginx.svg" alt="nginx" width="40" height="40"/> </a>
       <a href="https://www.lighttpd.net/" target="_blank"> <img src="https://api.iconify.design/logos:lighttpd.svg" alt="lighttpd" width="40" height="40"/> </a> 
       <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a> 
       <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
       <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
       <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
