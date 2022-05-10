@@ -117,9 +117,9 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-matlab.svg" alt="matlab" width="40" height="40"/> </a>
       <a href="https://kotlinlang.org" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
       <a href="https://www.swift.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-swift.svg" alt="swift" width="40" height="40"/> </a>
+      <a href="https://dart.dev" target="_blank"> <img src="https://api.iconify.design/logos:dart.svg" alt="dart" width="40" height="40"/> </a>
       <a href="https://flutter.dev" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-flutter.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://golang.org" target="_blank"> <img src="https://api.iconify.design/logos:go.svg" alt="go" width="40" height="40"/> </a>
-      <a href="https://dart.dev" target="_blank"> <img src="https://api.iconify.design/logos:dart.svg" alt="dart" width="40" height="40"/> </a>
       <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" alt="rust" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
       <a href="https://julialang.org/" target="_blank"> <img src="https://api.iconify.design/logos:julia.svg" alt="julia" width="40" height="40"/> </a>
