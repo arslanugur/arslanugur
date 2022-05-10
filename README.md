@@ -101,11 +101,11 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
+      <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
-      <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:npm.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
       <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
