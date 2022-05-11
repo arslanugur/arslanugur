@@ -133,7 +133,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://hexo.io/" target="_blank"> <img src="https://api.iconify.design/logos:hexo.svg" alt="hexo" width="40" height="40"/> </a>
       <a href="https://www.linux.org/" target="_blank"> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="linux" width="40" height="40"/> </a>
       <a href="https://ubuntu.com/" target="_blank"> <img src="https://api.iconify.design/logos:ubuntu.svg" alt="linux" width="40" height="40"/> </a>
-      <a href="https://www.kali.org" target="_blank"> <img src="https://api.iconify.design/simple-icons:kalilinux.svg style=color: "#0492C2"" alt="linux" width="45" height="45"/> </a>
+      <a href="https://www.kali.org" target="_blank"> <img src="https://api.iconify.design/simple-icons:kalilinux.svg style=color:"#0492C2;"" alt="linux" width="45" height="45"/> </a>
       <a href="https://cloud.google.com" target="_blank"> <img src="https://api.iconify.design/logos:google-cloud.svg" alt="gcp" width="40" height="40"/> </a>
       <a href="https://aws.amazon.com" target="_blank"> <img src="https://api.iconify.design/logos:aws.svg" alt="aws" width="40" height="40"/> </a> 
       <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://api.iconify.design/logos:microsoft-azure.svg" alt="azure" width="40" height="40"/> </a>
