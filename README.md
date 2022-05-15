@@ -131,7 +131,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://golang.org" target="_blank"> <img src="https://api.iconify.design/logos:go.svg" alt="go" width="40" height="40"/> </a>
       <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" alt="rust" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
-      <a href="https://julialang.org/" target="_blank"> <img src="https://api.iconify.design/logos:julia.svg" alt="julia" width="40" height="40"/> </a>
+      <a href="https://julialang.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-julia2.svg" alt="julia" width="40" height="40"/> </a>
       <a href="https://aurelia.io/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-aurelia.svg" alt="aurelia" width="40" height="40"/> </a>
       <a href="https://www.sas.com/en_us/home.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-sas.svg" alt="sas" width="40" height="40"/> </a>
       <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
@@ -148,7 +148,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://api.iconify.design/logos:bash-icon.svg" alt="bash" width="40" height="40"/> </a>
       <a href="https://circleci.com" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-circleci.svg" alt="circleci" width="40" height="40"/> </a> 
       <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a>
-      <a href="https://www.cypress.io" target="_blank"> <img src="https://api.iconify.design/simple-icons:cypress.svg" alt="cypress" width="40" height="40"/> </a>
+      <a href="https://www.cypress.io" target="_blank"> <img src="https://api.iconify.design/logos:cypress.svg" alt="cypress" width="40" height="40"/> </a>
       <a href="https://www.docker.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-docker2.svg" alt="docker" width="40" height="40"/> </a>
       <a href="https://kubernetes.io" target="_blank"> <img src="https://api.iconify.design/logos:kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
       <a href="https://www.nginx.com" target="_blank"> <img src="https://api.iconify.design/logos:nginx.svg" alt="nginx" width="40" height="40"/> </a>
@@ -195,6 +195,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://api.iconify.design/logos:raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/> </a>
       <a href="https://ethereum.org/en/" target="_blank"> <img src="https://api.iconify.design/logos:ethereum-color.svg" alt="ethereum" width="40" height="40"/> </a>
       <a href="https://cryptozombies.io" target="_blank"> <img src="https://api.iconify.design/simple-icons:solidity.svg" alt="solidity" width="40" height="40"/> </a>
+      <a href="https://metamask.io/" target="_blank"> <img src="https://api.iconify.design/logos:metamask-icon.svg" alt="metamask" width="40" height="40"/> </a>
     </p> 
 </details>
 
