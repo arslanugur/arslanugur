@@ -109,6 +109,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://svelte.dev" target="_blank"> <img src="https://api.iconify.design/logos:svelte-icon.svg" alt="svelte" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
+      <a href="https://redux.js.org" target="_blank"> <img src="https://api.iconify.design/logos:redux.svg" alt="redux" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a> 
       <a href="https://www.php.net" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-php.svg" alt="php" width="40" height="40"/> </a> 
