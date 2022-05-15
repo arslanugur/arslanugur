@@ -109,6 +109,9 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://svelte.dev" target="_blank"> <img src="https://api.iconify.design/logos:svelte-icon.svg" alt="svelte" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://angular.io" target="_blank"> <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" width="40" height="40"/> </a>
+      <a href="https://emberjs.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-ember.svg" alt="ember" width="40" height="40"/> </a>
+      <a href="https://www.meteor.com/" target="_blank"> <img src="https://api.iconify.design/logos:meteor-icon.svg" alt="meteor" width="40" height="40"/> </a>
+      <a href="https://backbonejs.org" target="_blank"> <img src="https://api.iconify.design/logos:backbone-icon.svg" alt="backbone" width="40" height="40"/> </a>
       <a href="https://redux.js.org" target="_blank"> <img src="https://api.iconify.design/logos:redux.svg" alt="redux" width="40" height="40"/> </a>
       <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://api.iconify.design/logos:django-icon.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a> 
@@ -177,8 +180,6 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
       <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
       <a href="https://gruntjs.com/" target="_blank"> <img src="https://api.iconify.design/logos:grunt.svg" alt="grunt" width="40" height="40"/> </a>
-      <a href="https://emberjs.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-ember.svg" alt="ember" width="40" height="40"/> </a>
-      <a href="https://www.meteor.com/" target="_blank"> <img src="https://api.iconify.design/logos:meteor-icon.svg" alt="meteor" width="40" height="40"/> </a>
       <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:hadoop.svg" alt="hadoop" width="40" height="40"/> </a>
       <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" alt="spark" width="40" height="40"/> </a>
       <a href="https://kafka.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos:kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
