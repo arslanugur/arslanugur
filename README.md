@@ -102,6 +102,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
+      <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
       <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
@@ -127,7 +128,6 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" alt="rust" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" width="40" height="40"/> </a>
       <a href="https://julialang.org/" target="_blank"> <img src="https://api.iconify.design/logos:julia.svg" alt="julia" width="40" height="40"/> </a>
-      <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://aurelia.io/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-aurelia.svg" alt="aurelia" width="40" height="40"/> </a>
       <a href="https://www.sas.com/en_us/home.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-sas.svg" alt="sas" width="40" height="40"/> </a>
       <a href="https://developer.android.com" target="_blank"> <img src="https://api.iconify.design/flat-color-icons:android-os.svg" alt="android" width="40" height="40"/> </a>
