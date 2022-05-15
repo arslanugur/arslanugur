@@ -193,6 +193,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://www.tensorflow.org" target="_blank"> <img src="https://api.iconify.design/logos:tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-arduino.svg" alt="arduino" width="40" height="40"/> </a>
       <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://api.iconify.design/logos:raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/> </a>
+      <a href="https://ethereum.org/en/" target="_blank"> <img src="https://api.iconify.design/logos:ethereum-color.svg" alt="ethereum" width="40" height="40"/> </a>
       <a href="https://cryptozombies.io" target="_blank"> <img src="https://api.iconify.design/simple-icons:solidity.svg" alt="solidity" width="40" height="40"/> </a>
     </p> 
 </details>
