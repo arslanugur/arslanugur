@@ -121,6 +121,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="40" height="40"/> </a>
       <a href="https://jquery.com/" target="_blank"> <img src="https://api.iconify.design/logos:jquery-mobile.svg" alt="jquery" width="40" height="40"/> </a>
       <a href="https://rubyonrails.org/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" alt="ruby" width="40" height="40"/> </a>
+      <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
       <a href="https://scala.epfl.ch/" target="_blank"> <img src="https://api.iconify.design/logos:scala.svg" alt="scala" width="40" height="40"/> </a>
       <a href="https://www.r-project.org/" target="_blank"> <img src="https://api.iconify.design/logos:r-lang.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-matlab.svg" alt="matlab" width="40" height="40"/> </a>
@@ -158,7 +159,6 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
       <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
       <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-      <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
       <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
       <a href="https://jestjs.io" target="_blank"> <img src="https://api.iconify.design/logos:jest.svg" alt="jest" width="40" height="40"/> </a> 
       <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://api.iconify.design/logos:karma.svg" alt="karma" width="40" height="40"/> </a> 
