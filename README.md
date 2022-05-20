@@ -50,10 +50,8 @@
     <a href="https://github.com/arslanugur/projects/tree/master/German%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
 </p>
 <p align="center">
-    <a href="https://instagram.com/engturk101">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="English Instagram" /></a>
-    <a href="https://instagram.com/ruseng101">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Russian Instagram" /></a>
+    <a href="https://instagram.com/engturk101" target="_blank"> <img src="https://api.iconify.design/logos:instagram.svg" alt="english" width="20px" /></a>
+    <a href="https://instagram.com/ruseng101" target="_blank"> <img src="https://api.iconify.design/logos:instagram.svg" alt="russian" width="20px" /></a>
     -
 </p>
 
