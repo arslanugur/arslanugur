@@ -49,8 +49,8 @@
     <a href="https://github.com/arslanugur/projects/tree/master/Russian%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-russia.svg" alt="Russian" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/projects/tree/master/German%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
 <p align="center">
-    <a href="https://instagram.com/engturk101" target="_blank"> <img src="https://api.iconify.design/logos:instagram.svg" alt="english" width="20px" /></a>
-    <a href="https://instagram.com/ruseng101" target="_blank"> <img src="https://api.iconify.design/logos:instagram.svg" alt="russian" width="20px" /></a>
+    <a href="https://instagram.com/engturk101" target="_blank"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="english" width="20px" /></a>
+    <a href="https://instagram.com/ruseng101" target="_blank"> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="russian" width="20px" /></a>
     -
 </p>
 
