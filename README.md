@@ -49,11 +49,13 @@
     <a href="https://github.com/arslanugur/projects/tree/master/Russian%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-russia.svg" alt="Russian" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/projects/tree/master/German%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
 </p>
+<p align="center">
     <a href="https://instagram.com/engturk101">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="English Instagram" /></a>
     <a href="https://instagram.com/ruseng101">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Russian Instagram" /></a>
     -
+</p>
 
 <p align="center">
     Current Works:  
