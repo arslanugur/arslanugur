@@ -39,6 +39,14 @@
 </p>
 
 
+<p align="center">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/-arslanugur-/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/arslanuguur">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arslanuguur?style=social">
+  </a>
+</p>
 
 <p align="center">
     Languages:  
