@@ -20,10 +20,6 @@
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/WhatsApp-Logo.svg" alt="Arslan's Whatsapp" /></a>
-    <a href="https://www.linkedin.com/in/-ugurarslan-/" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" alt="Arslan's LinkedIn" /></a>
-    <a href="https://twitter.com/arslanuguur" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" alt="Arslan's Twitter" /></a>
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" alt="Arslan's Youtube" /></a>
     <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
