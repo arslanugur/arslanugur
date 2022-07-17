@@ -204,14 +204,16 @@ occupation: {"English Teacher", "Software Developer"}
 
 
 
+
+
 <!--Stats-->
 <p><details>
   <summary> 📊 Stats </summary><br/>
     <p align="center">
-    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
     <a href="https://github.com/arslanugur">
-    <img width="30%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a>   
-    <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
+    <img width="36%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a>   
+    <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
 </details>
 </p>
 
