@@ -211,11 +211,16 @@ occupation: {"English Teacher", "Software Developer"}
   <summary> 📊 Stats </summary><br/>
     <p align="center">
     <img width="32%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
-    <a href="https://github.com/arslanugur">
-    <!--<img width="36%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a>   -->
     <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
-</details>
+  </p>
+  <a href="https://github.com/arslanugur">
+    <img width="36%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a>
+  </details>
 </p>
+
+    <a href="https://github.com/arslanugur">
+    <img width="36%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a>
+
 
 <!-- Spotify -->
 <p align="center">
