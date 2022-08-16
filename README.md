@@ -215,7 +215,7 @@ occupation: {"English Teacher", "Software Developer"}
   </p>
   <p align="center">
   <a href="https://github.com/arslanugur">
-    <img width="32%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a></p>
+    <img width="16%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a></p>
   </details>
 </p>
 
