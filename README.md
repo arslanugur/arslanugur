@@ -210,8 +210,8 @@ occupation: {"English Teacher", "Software Developer"}
 <p><details>
   <summary> 📊 Stats </summary><br/>
     <p align="center">
-    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
-    <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
   </p>
   <p align="center">
   <a href="https://github.com/arslanugur">
