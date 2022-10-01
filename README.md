@@ -13,7 +13,7 @@
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.gif)](https://www.linkedin.com/in/-ugurarslan-/)
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
-    <a href="https://instagram.com/arslanuguur">
+    <a href="https://instagram.com/englishturkish101">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/WhatsApp-Logo.svg" alt="Arslan's Whatsapp" /></a>
