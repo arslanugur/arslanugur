@@ -36,8 +36,8 @@
     Visitor Register:  
 </p>
 <p align="center">
-  <label>First Name: </label><input name="firstName" type="text" required/><br>
-  <label>Last Name: </label><input name="lastName" type="text" required/><br>
+  <label>First Name: </label> <input type="text"/><br>
+  <label>Last Name: </label> <input type="text"/><br>
   <input type="submit"/>
 </p>
 
