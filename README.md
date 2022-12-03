@@ -31,7 +31,7 @@
         <img width="25px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
 </p>
 
-
+<!--
 <p align="center">
     Visitor Register:  
 </p>
@@ -40,7 +40,7 @@
   <label>Last Name: </label> <input type="text"/><br>
   <input type="submit"/>
 </p>
-
+-->
 
 <p align="center">
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/-ugurarslan-/">
