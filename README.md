@@ -33,6 +33,17 @@
 
 
 <p align="center">
+    Visitor Register:  
+</p>
+<form>
+<p align="center">
+  <label>First Name: </label><input name="firstName" type="text" required/>
+  <label>Last Name: </label><input name="lastName" type="text" required/>
+  <input type="submit"/>
+</p>
+</form>
+
+<p align="center">
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/-ugurarslan-/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
