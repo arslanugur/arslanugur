@@ -112,7 +112,6 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://api.iconify.design/logos:flask.svg" alt="flask" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" width="40" height="40"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://vuejs.org/" target="_blank"> <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/> </a>
@@ -120,6 +119,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://svelte.dev" target="_blank"> <img src="https://api.iconify.design/logos:svelte-icon.svg" alt="svelte" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+      <a href="https://getbootstrap.com" target="_blank"> <img src="https://api.iconify.design/logos:bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/logos:figma.svg" alt="figma" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://sass-lang.com" target="_blank"> <img src="https://api.iconify.design/logos:sass.svg" alt="sass" width="40" height="40"/> </a>
