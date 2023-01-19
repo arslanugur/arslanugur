@@ -240,6 +240,10 @@ me.say_hi()
   <summary> 📊 Stats </summary><br/>
     <p align="center">
       <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+      
+      <img src="https://arslanugur-readme-stats.vercel.app/api/top-langs?username=arslanugur&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="arslanugur's Top Languages" align="right" width="295">
+      
+      
       <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />  
     </p>
     <p align="center">
