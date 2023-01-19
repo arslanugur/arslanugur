@@ -4,6 +4,7 @@
 <p align="left">
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visitors" alt="Profile View" width="90">
+  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 </a>
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110" >
@@ -86,6 +87,26 @@
  education: ["English Literature", "Management Information Systems"]  
 occupation: {"English Teacher", "Software Developer"}
 ```
+  
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Arslan"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_UK"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```  
 
 </details> </p>
 
@@ -221,10 +242,10 @@ occupation: {"English Teacher", "Software Developer"}
       <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
       <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
     </p>
-  
     <p align="center">
       <a href="https://github.com/arslanugur">
-      <img width="16%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a></p>
+      <img width="16%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /></a>
+    </p>
   </details>
 </p>
 
