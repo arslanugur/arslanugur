@@ -4,8 +4,8 @@
 <p align="left">
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visitors" alt="Profile View" width="90">
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 </a>
+  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110" >
 </a>
@@ -87,7 +87,6 @@
  education: ["English Literature", "Management Information Systems"]  
 occupation: {"English Teacher", "Software Developer"}
 ```
-  
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
