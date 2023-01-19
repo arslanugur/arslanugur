@@ -1,11 +1,13 @@
 <!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
-<!-- https://zzetao.github.io/awesome-github-profile/ -->
+<!-- 
+https://zzetao.github.io/awesome-github-profile/ 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+-->
 
 <p align="left">
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visitors" alt="Profile View" width="90">
 </a>
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110" >
 </a>
@@ -90,7 +92,6 @@ occupation: {"English Teacher", "Software Developer"}
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class SoftwareEngineer:
 
