@@ -56,7 +56,6 @@
 <p align="center">
     Languages:  
 </p>
-
 <p align="center">
     <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="English" width="20px" /></a>
     <a href="https://github.com/arslanugur/projects/tree/master/Russian%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-russia.svg" alt="Russian" width="20" height="20"/> </a>
@@ -66,7 +65,6 @@
 <p align="center">
     Current Works:  
 </p>
-
 <p align="center">
     <a href="https://github.com/arslanugur/py" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/cpp" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cpp" width="20" height="20"/> </a>
@@ -101,7 +99,7 @@ occupation: {"English Teacher", "Software Developer"}
 <a href="https://github.com/arslanugur">
     <img width="50%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/Develop.gif" /> </a>   
 </p> -->  
-  <p align="center">
+<p align="center">
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
@@ -209,7 +207,7 @@ occupation: {"English Teacher", "Software Developer"}
       <a href="https://ethereum.org/en/" target="_blank"> <img src="https://api.iconify.design/logos:ethereum-color.svg" alt="ethereum" width="40" height="40"/> </a>
       <a href="https://cryptozombies.io" target="_blank"> <img src="https://api.iconify.design/simple-icons:solidity.svg" alt="solidity" width="40" height="40"/> </a>
       <a href="https://metamask.io/" target="_blank"> <img src="https://api.iconify.design/logos:metamask-icon.svg" alt="metamask" width="40" height="40"/> </a>
-    </p> 
+</p> 
 </details>
 
 
@@ -220,12 +218,13 @@ occupation: {"English Teacher", "Software Developer"}
 <p><details>
   <summary> 📊 Stats </summary><br/>
     <p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
-  </p>
-  <p align="center">
-  <a href="https://github.com/arslanugur">
-    <img width="16%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a></p>
+      <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
+      <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />  
+    </p>
+  
+    <p align="center">
+      <a href="https://github.com/arslanugur">
+      <img width="16%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /> </a></p>
   </details>
 </p>
 
