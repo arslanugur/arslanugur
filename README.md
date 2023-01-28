@@ -21,21 +21,21 @@ https://zzetao.github.io/awesome-github-profile/
 -->
 <p align="center">
     <a href="https://instagram.com/englishturkish101">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
+        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Arslan's Instagram" width="20" height="20"/></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/WhatsApp-Logo.svg" alt="Arslan's Whatsapp" /></a>
+        <img src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" alt="Arslan's Whatsapp" width="20" height="20"/></a>
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
-        <img width="40px" src="https://www.svgrepo.com/show/354592/youtube-icon.svg" alt="Arslan's Youtube" width="20" height="20"/></a>
+        <img src="https://www.svgrepo.com/show/354592/youtube-icon.svg" alt="Arslan's Youtube" width="20" height="20"/></a>
     <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
-        <img width="40px" src="https://www.svgrepo.com/show/354183/pinterest.svg" alt="Arslan's Pinterest" width="20" height="20" /></a>
+        <img src="https://www.svgrepo.com/show/354183/pinterest.svg" alt="Arslan's Pinterest" width="20" height="20"/></a>
     <a href="https://stackoverflow.com/users/10667473" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" alt="Arslan's StackOverFlow" /></a>
+        <img src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="Arslan's StackOverFlow" width="20" height="20"/></a>
     <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" alt="Arslan's Reddit" /></a>
+        <img src="https://www.svgrepo.com/show/452094/reddit.svg" alt="Arslan's Reddit" width="20" height="20" /></a>
     <a href="https://medium.com/@arslanugur" target="_blank">
-        <img width="25px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
+        <img src="https://www.svgrepo.com/show/473713/medium.svg" alt="Arslan's Medium" width="20" height="20" /></a>
     <a href="https://dev.to/arslanugur" target="_blank">
-        <img width="25px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
+        <img src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur" width="30"/></a>
 </p>
 
 <!--
