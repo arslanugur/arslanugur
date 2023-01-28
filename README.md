@@ -27,7 +27,7 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
         <img src="https://www.svgrepo.com/show/354592/youtube-icon.svg" alt="Arslan's Youtube" width="20" height="20"/></a>
     <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
-        <img src="https://www.svgrepo.com/show/354183/pinterest.svg" alt="Arslan's Pinterest" width="20" height="20"/></a>
+        <img src="https://www.svgrepo.com/show/452086/pinterest.svg" alt="Arslan's Pinterest" width="20" height="20"/></a>
     <a href="https://stackoverflow.com/users/10667473" target="_blank">
         <img src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="Arslan's StackOverFlow" width="20" height="20"/></a>
     <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
