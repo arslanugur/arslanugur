@@ -33,7 +33,7 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
         <img src="https://www.svgrepo.com/show/452094/reddit.svg" alt="Arslan's Reddit" width="20" height="20" /></a>
     <a href="https://medium.com/@arslanugur" target="_blank">
-        <img src="https://www.svgrepo.com/show/473713/medium.svg" alt="Arslan's Medium" width="20" height="20" /></a>
+        <img src="https://www.svgrepo.com/show/394277/medium.svg" alt="Arslan's Medium" width="20" height="20" /></a>
     <a href="https://dev.to/arslanugur" target="_blank">
         <img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="arslanugur" width="20" height="20"/></a>
 </p>
