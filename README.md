@@ -19,7 +19,7 @@ https://zzetao.github.io/awesome-github-profile/
     https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg
 
 -->
-<p align="center">
+<p align="left">
     <a href="https://instagram.com/englishturkish101">
         <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Arslan's Instagram" width="20" height="20"/></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="___blank">
