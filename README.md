@@ -21,7 +21,7 @@ https://zzetao.github.io/awesome-github-profile/
 -->
 <p align="center">
     <a href="https://instagram.com/englishturkish101">
-        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Arslan's Instagram" width="20" height="20" margin: "10px"/></a>
+        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Arslan's Instagram" width="20" height="20" margin="10px"/></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
         <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Arslan's Whatsapp" width="20" height="20"/></a>
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
