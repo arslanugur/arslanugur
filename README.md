@@ -123,7 +123,7 @@ me.say_hi()
 <p align="center">
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
-      <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://www.svgrepo.com/svg/353622/c-sharp-logo.svg" alt="csharp" width="40" height="40"/> </a>
+      <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
       <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
