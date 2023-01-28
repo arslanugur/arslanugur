@@ -23,7 +23,7 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://instagram.com/englishturkish101">
         <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Arslan's Instagram" width="20" height="20"/></a>
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
-        <img src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" alt="Arslan's Whatsapp" width="20" height="20"/></a>
+        <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Arslan's Whatsapp" width="20" height="20"/></a>
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
         <img src="https://www.svgrepo.com/show/354592/youtube-icon.svg" alt="Arslan's Youtube" width="20" height="20"/></a>
     <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
@@ -35,7 +35,7 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://medium.com/@arslanugur" target="_blank">
         <img src="https://www.svgrepo.com/show/473713/medium.svg" alt="Arslan's Medium" width="20" height="20" /></a>
     <a href="https://dev.to/arslanugur" target="_blank">
-        <img src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur" width="30"/></a>
+        <img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="arslanugur" width="20" height="20"/></a>
 </p>
 
 <!--
