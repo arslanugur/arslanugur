@@ -123,7 +123,7 @@ me.say_hi()
 <p align="center">
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
-      <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
+      <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://www.svgrepo.com/svg/353622/c-sharp.svg" alt="csharp" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a>
       <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
       <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
@@ -197,7 +197,7 @@ me.say_hi()
       <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://api.iconify.design/logos:kibana.svg" alt="kibana" width="40" height="40"/> </a> 
       <a href="https://mochajs.org" target="_blank"> <img src="https://api.iconify.design/logos:mocha.svg" alt="mocha" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-plsql.svg" width="40" height="40"/> </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/> </a> 
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/> </a>
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width="50" height="50"/> </a>
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="mongodb" width="50" height="50"/> </a>
       <a href="https://mariadb.org/" target="_blank"> <img src="https://api.iconify.design/logos:mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
