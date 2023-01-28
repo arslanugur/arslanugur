@@ -14,7 +14,11 @@ https://zzetao.github.io/awesome-github-profile/
 </p>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.gif)](https://www.linkedin.com/in/-ugurarslan-/)
-<!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
+<!-- LOGOS: 
+    https://www.logo.wine/ fiver, freelancer, upwork, discord 
+    https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg
+
+-->
 <p align="center">
     <a href="https://instagram.com/englishturkish101">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
@@ -23,7 +27,7 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" alt="Arslan's Youtube" /></a>
     <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
-        <img width="40px" src="https://www.svgrepo.com/show/354183/pinterest.svg" alt="Arslan's Pinterest" /></a>
+        <img width="40px" src="https://www.svgrepo.com/show/354183/pinterest.svg" alt="Arslan's Pinterest" width="20" height="20" /></a>
     <a href="https://stackoverflow.com/users/10667473" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" alt="Arslan's StackOverFlow" /></a>
     <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
