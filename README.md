@@ -100,7 +100,7 @@ https://zzetao.github.io/awesome-github-profile/
  <summary> ✨ About </summary>
 
 ```yaml
-      name: "Uğur Arslan"
+nomination: "Uğur Arslan"
   location: İstanbul, Turkey
  education: ["English Literature", "Management Information Systems"]  
 occupation: {"English Teacher", "Software Developer"}
