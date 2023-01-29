@@ -39,7 +39,9 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://medium.com/@arslanugur" target="_blank">
         <img src="https://www.svgrepo.com/show/349449/medium.svg" alt="Arslan's Medium" width="30" height="30" /></a>&emsp;&emsp;
     <a href="https://dev.to/arslanugur" target="_blank">
-        <img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="arslanugur" width="30" height="30"/></a>
+        <img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="arslanugur" width="30" height="30"/></a>&emsp;&emsp;
+    <a href="https://www.hackerrank.com/arslanugur" target="_blank">
+        <img src="https://www.svgrepo.com/show/330599/hackerrank.svg" alt="arslanugur" width="30" height="30"/></a>
 </p>
 
 <!--
