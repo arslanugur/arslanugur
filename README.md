@@ -92,6 +92,8 @@ https://zzetao.github.io/awesome-github-profile/
       <img src="https://api.iconify.design/logos:bitcoin.svg" alt="blockchain" width="20" height="20"/> </a>&emsp;
     <a href="https://github.com/arslanugur/py/tree/master/Machine%20Learning" target="_blank"> 
       <img src="https://api.iconify.design/emojione:robot-face.svg" alt="machinelearning" width="20" height="20"/> </a>&emsp;
+    <a href="https://github.com/arslanugur/textualMaterials" target="_blank"> 
+      <img src="https://api.iconify.design/emojione:notebook-with-decorative-cover.svg" alt="notes" width="20" height="20"/> </a>&emsp;
 </p>
 
 <!--About-->
