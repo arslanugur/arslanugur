@@ -96,6 +96,8 @@ https://zzetao.github.io/awesome-github-profile/
       <img src="https://api.iconify.design/emojione:notebook-with-decorative-cover.svg" alt="notes" width="20" height="20"/> </a>&emsp;
 </p>
 
+<!--emojione-v1:note-page-->
+
 <!--About-->
 <p align="left">
 <details>
