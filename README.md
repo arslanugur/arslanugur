@@ -282,12 +282,16 @@ me.say_hi()
   </details>
 </p>
 
-#### 🏊‍♂️ Weekly Development Breakdown
+
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=arslanugur">
+<img src="https://github-profile-trophy.vercel.app/?username=arslanugur">
 
 ![light](https://raw.githubusercontent.com/arslanugur/arslanugur/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-
 ![dark](https://raw.githubusercontent.com/arslanugur/arslanugur/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
+</details>
 
 
 <!-- Spotify -->
