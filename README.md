@@ -274,7 +274,7 @@ me.say_hi()
     <p align="center">
       <img width="35%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=dracula" />      
       <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&show_icons=true&theme=dracula" />
-      <img width="70%" src="https://github-profile-trophy.vercel.app/?username=arslanugur&show_icons=true&theme=dracula" />
+      <img width="50%" src="https://github-profile-trophy.vercel.app/?username=arslanugur&show_icons=true&theme=dracula" />
     </p>
     <p align="center">
       <a href="https://github.com/arslanugur">
