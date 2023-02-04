@@ -6,14 +6,17 @@ https://zzetao.github.io/awesome-github-profile/
 
 <p align="left">
 <a href="https://github.com/arslanugur" target="_blank">
-    <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/fox.gif" alt="Fox" width="40" >
-</a>
+    <img align="left" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/fox.gif" alt="Fox" width="40" >
+    </a>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visitors" alt="Profile View" width="90">
-</a>  
+    </a>  
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110" >
-</a>
+    </a>
+<a href="https://github.com/arslanugur" target="_blank">
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/CoffeeBeans.gif" alt="coffee" width="30" >
+    </a>
 </p>
 
 [![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.gif)](https://www.linkedin.com/in/-ugurarslan-/)
