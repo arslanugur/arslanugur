@@ -100,6 +100,10 @@ https://zzetao.github.io/awesome-github-profile/
 </p>
 
 <!--emojione-v1:note-page-->
+<p align="center">
+    <a href="https://github.com/arslanugur" target="_blank">
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mtrx.gif" alt="QR-Code" width="70" >
+</a></p>
 
 <!--About-->
 <p align="left">
