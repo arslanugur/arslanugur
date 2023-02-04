@@ -84,6 +84,11 @@ https://zzetao.github.io/awesome-github-profile/
 </p>
 
 <p align="center">
+    <a href="https://github.com/arslanugur" target="_blank">
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/joystck.gif" alt="js" width="100" >
+</a></p>
+
+<p align="center">
     Current Works:  
 </p>
 <p align="center">
@@ -109,10 +114,6 @@ https://zzetao.github.io/awesome-github-profile/
 
 
 
-<p align="center">
-    <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/joystck.gif" alt="js" width="100" >
-</a></p>
 
 
 <!--About-->
