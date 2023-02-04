@@ -74,6 +74,8 @@ https://zzetao.github.io/awesome-github-profile/
 
 <p align="center">
     Languages:
+</p>
+<p align="center">
       <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank">
         <img src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="English" width="20px" /></a>&emsp;
       <a href="https://github.com/arslanugur/textualMaterials/tree/master/Languages/Russian%20101" target="_blank">
