@@ -108,7 +108,7 @@ https://zzetao.github.io/awesome-github-profile/
 
 <p align="center">
     <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mtrxx.jpeg" alt="Matrix" width="300" >
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/matrix.webp" alt="Matrix" width="300" >
 </a></p>
 
 
