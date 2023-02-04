@@ -82,7 +82,7 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://github.com/arslanugur/textualMaterials/tree/master/Languages/German%20101" target="_blank">
       <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
   
-<details></p>
+</details></p>
 <p align="center">
     🎱 Current Works:  
 </p>
