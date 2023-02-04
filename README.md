@@ -71,7 +71,7 @@ https://zzetao.github.io/awesome-github-profile/
   </a>
 </p>
 -->
-<p align="left">
+<p align="center">
 <details>
  <summary> 🌍 Languages: </summary>
   <p align="center">
