@@ -272,26 +272,16 @@ me.say_hi()
 <p><details>
   <summary> 📊 Stats </summary><br/>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=dracula" />      
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&show_icons=true&theme=dracula" />
+      <img width="30%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=dracula" />      
+      <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&show_icons=true&theme=dracula" />
+      <img src="https://github-profile-trophy.vercel.app/?username=arslanugur&show_icons=true&theme=dracula">
     </p>
     <p align="center">
       <a href="https://github.com/arslanugur">
-      <img width="16%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /></a>
+      <img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /></a>
     </p>
   </details>
 </p>
-
-
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=arslanugur">
-<img src="https://github-profile-trophy.vercel.app/?username=arslanugur">
-
-![light](https://raw.githubusercontent.com/arslanugur/arslanugur/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-![dark](https://raw.githubusercontent.com/arslanugur/arslanugur/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
-</details>
 
 
 <!-- Spotify -->
