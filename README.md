@@ -3,10 +3,6 @@
 https://zzetao.github.io/awesome-github-profile/ 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 -->
-<p align="center">
-    <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/dev-working_rounded.gif" alt="Dev" width="300" >
-</a></p>
 
 <p align="left">
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
@@ -106,7 +102,7 @@ https://zzetao.github.io/awesome-github-profile/
 <!--emojione-v1:note-page-->
 <p align="center">
     <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mtrx.gif" alt="QR-Code" width="300" >
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/ComputerScience.gif" alt="QR-Code" width="300" >
 </a></p>
 
 <!--About-->
