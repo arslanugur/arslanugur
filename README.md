@@ -111,7 +111,7 @@ https://zzetao.github.io/awesome-github-profile/
 
 <p align="center">
     <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/CoffeeBeans.gif" alt="coffee" width="30" >
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/joystck.gif" alt="js" width="100" >
 </a></p>
 
 
