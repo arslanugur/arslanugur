@@ -15,7 +15,7 @@ https://zzetao.github.io/awesome-github-profile/
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110" >
     </a>
 <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/CoffeeBeans.gif" alt="coffee" width="30" >
+    <img align="right" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/CoffeeBeans.gif" alt="coffee" width="30" >
     </a>
 </p>
 
