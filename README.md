@@ -102,7 +102,7 @@ https://zzetao.github.io/awesome-github-profile/
 <!--emojione-v1:note-page-->
 <p align="center">
     <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mtrx.gif" alt="QR-Code" width="250" height="50" >
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/mtrx.gif" alt="QR-Code" width="270" >
 </a></p>
 
 <!--About-->
