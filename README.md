@@ -72,7 +72,7 @@ https://zzetao.github.io/awesome-github-profile/
 </p>
 -->
 <p align="center">
-    Languages:  
+    🌍 Languages:  
 </p>
 <p align="center">
     <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank"> 
@@ -85,7 +85,7 @@ https://zzetao.github.io/awesome-github-profile/
 
 
 <p align="center">
-    Current Works:  
+    🎱 Current Works:  
 </p>
 <p align="center">
     <a href="https://github.com/arslanugur/py" target="_blank"> 
