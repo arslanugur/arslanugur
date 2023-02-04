@@ -6,7 +6,7 @@ https://zzetao.github.io/awesome-github-profile/
 
 <p align="left">
 <a href="https://github.com/arslanugur" target="_blank">
-    <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/fox.gif" alt="Fox" width="25" >
+    <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/fox.gif" alt="Fox" width="20" >
 </a>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visitors" alt="Profile View" width="90">
