@@ -5,11 +5,11 @@ https://zzetao.github.io/awesome-github-profile/
 -->
 
 <p align="left">
+<a href="https://github.com/arslanugur" target="_blank">
+    <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/fox.gif" alt="Fox" width="25" >
+</a>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visitors" alt="Profile View" width="90">
-</a>
-    <a href="https://github.com/arslanugur" target="_blank">
-    <img align="center" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/fox.gif" alt="QR-Code" width="30" >
 </a>  
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110" >
