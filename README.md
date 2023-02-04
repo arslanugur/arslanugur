@@ -268,11 +268,11 @@ me.say_hi()
 
 
 
-<!--Stats-->
+<!--Stats dracula&hide=stars,issues-->
 <p><details>
   <summary> 📊 Stats </summary><br/>
     <p align="center">
-      <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=dracula&hide=stars,issues" />      
+      <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=dracula" />      
       <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&show_icons=true&theme=dracula" />
     </p>
     <p align="center">
