@@ -4,10 +4,13 @@ https://zzetao.github.io/awesome-github-profile/
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 -->
 
-<p align="left">
+<p align="center">
 <a href="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Profile View">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arslanugur.visitor-badge&title=Visitors" alt="Profile View" width="90">
 </a>
+    <a href="https://github.com/arslanugur" target="_blank">
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/fox.gif" alt="QR-Code" width="300" >
+</a>  
 <a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
   <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110" >
 </a>
@@ -100,10 +103,7 @@ https://zzetao.github.io/awesome-github-profile/
 </p>
 
 <!--emojione-v1:note-page-->
-<p align="center">
-    <a href="https://github.com/arslanugur" target="_blank">
-    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/ComputerScience.gif" alt="QR-Code" width="300" >
-</a></p>
+
 
 <!--About-->
 <p align="left">
