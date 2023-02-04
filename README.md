@@ -71,8 +71,9 @@ https://zzetao.github.io/awesome-github-profile/
   </a>
 </p>
 -->
-<p align="center">
-  <details>
+
+<details>
+  <p align="center">
     <summary> 🌍 Languages: </summary>
     <p align="center">
       <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank">
