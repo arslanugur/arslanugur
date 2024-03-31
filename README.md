@@ -26,7 +26,7 @@ https://zzetao.github.io/awesome-github-profile/
 
 -->
 <p align="center">
-    <a href="https://instagram.com/englishturkish101">
+    <a href="https://instagram.com/arslanuguur">
         <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Arslan's Instagram" width="30" height="30"/></a>&emsp;&emsp;
     <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
         <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Arslan's Whatsapp" width="30" height="30"/></a>&emsp;&emsp;
