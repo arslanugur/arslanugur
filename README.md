@@ -33,7 +33,7 @@ https://zzetao.github.io/awesome-github-profile/
     <a href="https://www.linkedin.com/in/-ugurarslan-/" target="_blank">
         <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="Arslan's LinkedIn" width="30" height="30"/></a>&emsp;&emsp;
     <a href="https://x.com/arslanuguur" target="_blank">
-        <img src="<svg xmlns=http://www.w3.org/2000/svg" alt="Arslan's X" width="30" height="30"/></a>&emsp;&emsp;
+        <img src="http://www.w3.org/2000/svg" alt="Arslan's X" width="30" height="30"/></a>&emsp;&emsp;
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
         <img src="https://www.svgrepo.com/show/354592/youtube-icon.svg" alt="Arslan's Youtube" width="30" height="30"/></a>&emsp;&emsp;
     <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
