@@ -298,8 +298,8 @@ me.say_hi()
     <a href="https://open.spotify.com/playlist/4F63lVsqsa7xa9rGdLLRb4?si=TGLCuEyWTFiTKxkRnzVh9g&utm_source=copy-link">
     <img align="center" width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a><br/>
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11139457861&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
 </a></p>
 
 <p align="center">
@@ -310,7 +310,7 @@ me.say_hi()
 
 <!-- <h2>Latest Tweets</h2>
 <p align="center">
-    <a href="https://twitter.com/arslanuguur">
+    <a href="https://x.com/arslanuguur">
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=arslanuguur&amp;layout=wide" alt="github-readme-twitter">
 </a></p>
  -->
