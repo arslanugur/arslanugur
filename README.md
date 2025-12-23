@@ -73,6 +73,15 @@ https://zzetao.github.io/awesome-github-profile/
 -->
 
 <p align="center">
+  
+</p>
+
+<p align="center">
+    <a href="https://github.com/arslanugur" target="_blank">
+    <img src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/animated-ship-image-0059.gif" alt="js" width="90" >
+</a></p>
+
+<p align="center">
     Languages:
 </p>
 <p align="center">
@@ -83,6 +92,7 @@ https://zzetao.github.io/awesome-github-profile/
       <a href="https://github.com/arslanugur/textualMaterials/tree/master/Languages/German%20101" target="_blank">
         <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
 </p>
+
 <p align="center">
     Current Works:  
 </p>
