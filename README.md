@@ -118,7 +118,15 @@ https://zzetao.github.io/awesome-github-profile/
 <!--emojione-v1:note-page-->
 
 
-
+<p align="center">
+    Research:
+</p>
+<p align="center">
+    <a href="https://www.ycombinator.com/companies" target="_blank"> 
+      <img src="https://api.iconify.design/logos:ycombinator.svg" alt="Python" width="20" height="20"/> </a>&emsp;
+    <a href="https://www.coursera.org/" target="_blank"> 
+      <img src="https://api.iconify.design/logos:coursera.svg" alt="cpp" width="20" height="20"/> </a>&emsp;
+</p>
 
 
 <!--About-->
