@@ -126,9 +126,18 @@ https://zzetao.github.io/awesome-github-profile/
       <img src="https://api.iconify.design/logos:producthunt.svg" alt="Python" width="20" height="20"/> </a>&emsp;
       <a href="https://www.ycombinator.com/companies" target="_blank"> 
       <img src="https://api.iconify.design/logos:ycombinator.svg" alt="Python" width="20" height="20"/> </a>&emsp;
-    <a href="https://www.coursera.org/" target="_blank"> 
+      <a href="https://www.startupranking.com/" target="_blank"> 
+      <img src="https://api.iconify.design/streamline-logos:betalist-logo-solid.svg" alt="Python" width="20" height="20"/> </a>&emsp;
+      <a href="https://www.coursera.org/" target="_blank"> 
       <img src="https://api.iconify.design/logos:coursera.svg" alt="cpp" width="20" height="20"/> </a>&emsp;
+      <a href="https://www.edx.org/" target="_blank"> 
+      <img src="https://api.iconify.design/simple-icons:edx.svg" alt="cpp" width="20" height="20"/> </a>&emsp;
 </p>
+
+
+
+
+
 
 
 <!--About-->
