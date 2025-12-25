@@ -123,7 +123,7 @@ https://zzetao.github.io/awesome-github-profile/
 </p>
 <p align="center">
       <a href="https://www.producthunt.com/leaderboard/daily/2025/12/25?ref=header_nav" target="_blank"> 
-      <img src="https://api.iconify.design/logos:producthunt.svg" alt="Python" width="20" height="20"/> </a>&emsp;
+      <img src="https://api.iconify.design/emojione:letter-p.svg" alt="Python" width="20" height="20"/> </a>&emsp;
       <a href="https://www.ycombinator.com/companies" target="_blank"> 
       <img src="https://api.iconify.design/logos:ycombinator.svg" alt="Python" width="20" height="20"/> </a>&emsp;
       <a href="https://www.startupranking.com/" target="_blank"> 
@@ -133,7 +133,6 @@ https://zzetao.github.io/awesome-github-profile/
       <a href="https://www.edx.org/" target="_blank"> 
       <img src="https://api.iconify.design/noto:letter-x.svg" alt="cpp" width="20" height="20"/> </a>&emsp;
 </p>
-
 
 
 
