@@ -122,20 +122,8 @@ https://zzetao.github.io/awesome-github-profile/
     Research:
 </p>
 <p align="center">
-      <a href="https://labs.google/experiments" target="_blank"> 
+      <a href="https://github.com/arslanugur/textualMaterials/blob/master/Extras/%23%20AI%20Bookmarks" target="_blank"> 
       <img src="https://api.iconify.design/streamline-stickies-color:lab-tools.svg" alt="Python" width="20" height="20"/> </a>&emsp;
-      <a href="https://www.producthunt.com/leaderboard/daily/2025/12/25?ref=header_nav" target="_blank"> 
-      <img src="https://api.iconify.design/emojione:letter-p.svg" alt="Python" width="20" height="20"/> </a>&emsp;
-      <a href="https://www.ycombinator.com/companies" target="_blank"> 
-      <img src="https://api.iconify.design/emojione:letter-y.svg" alt="Python" width="20" height="20"/> </a>&emsp;
-      <a href="https://www.startupranking.com/" target="_blank"> 
-      <img src="https://api.iconify.design/flat-color-icons:bar-chart.svg" alt="Python" width="20" height="20"/> </a>&emsp;
-      <a href="https://www.hackerrank.com/dashboard" target="_blank"> 
-      <img src="https://api.iconify.design/noto:letter-h.svg" alt="cpp" width="20" height="20"/> </a>&emsp;
-      <a href="https://www.coursera.org/" target="_blank"> 
-      <img src="https://api.iconify.design/noto-v1:letter-c.svg" alt="cpp" width="20" height="20"/> </a>&emsp;
-      <a href="https://www.edx.org/" target="_blank"> 
-      <img src="https://api.iconify.design/noto:letter-x.svg" alt="cpp" width="20" height="20"/> </a>&emsp;
 </p>
 
 
